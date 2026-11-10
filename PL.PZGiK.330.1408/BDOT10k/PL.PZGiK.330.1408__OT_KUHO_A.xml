@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUHO_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB45-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB45-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kemping</ot:rodzaj>
+			<ot:nazwa>TKKF Wodnik</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4e263685-510e-4142-9986-a9887d336148-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638138.56 509802.81 638142.85 509799.08 638149.49 509798.04 638168.93 509795.68 638170.15 509771.14 638177.10 509676.11 638133.70 509675.73 638127.31 509695.96 638125.56 509709.16 638125.02 509732.30 638124.50 509738.39 638124.34 509741.58 638123.74 509744.81 638122.41 509748.05 638119.06 509753.90 638113.87 509761.48 638108.62 509768.53 638103.94 509773.10 638100.35 509775.29 638124.03 509776.89 638123.02 509803.56 638138.56 509802.81</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB52-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB52-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>ośrodek szkoleniowo - wypoczynkowy</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Exploris</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-70ee76eb-309a-459c-bc2a-2723267b5c65-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640180.07 517429.30 640223.04 517424.29 640268.45 517419.51 640268.05 517415.50 640258.96 517379.25 640256.83 517364.30 640266.06 517336.26 640295.67 517323.20 640315.38 517313.45 640329.64 517261.53 640320.43 517262.74 640318.90 517243.22 640318.27 517235.17 640313.70 517199.09 640284.49 517202.75 640270.65 517203.91 640274.87 517237.44 640293.33 517264.55 640277.38 517282.27 640243.19 517302.78 640228.80 517285.32 640186.78 517275.43 640184.70 517274.94 640175.53 517259.83 640158.67 517269.32 640135.49 517258.38 640105.68 517275.09 640095.02 517306.94 640099.56 517314.42 640105.29 517321.29 640106.54 517322.87 640108.34 517325.15 640110.73 517328.21 640121.53 517342.06 640136.35 517367.74 640146.02 517384.48 640155.70 517401.25 640165.94 517419.61 640169.52 517426.03 640171.96 517430.19 640176.31 517429.71 640180.07 517429.30</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB53-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB53-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>ośrodek szkoleniowo - wypoczynkowy</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Narew</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-18bd814b-db70-46f6-bd92-08660f1fe9e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640589.60 519719.51 640585.50 519673.59 640589.26 519656.78 640590.91 519649.63 640593.56 519638.32 640587.55 519637.00 640562.50 519631.61 640567.33 519608.84 640568.83 519601.79 640569.68 519597.80 640570.59 519587.52 640570.60 519587.45 640569.77 519585.76 640567.18 519580.46 640562.64 519574.87 640556.18 519570.85 640548.96 519568.55 640542.38 519568.06 640539.43 519568.25 640535.49 519568.50 640515.04 519572.54 640496.07 519576.46 640474.33 519580.95 640474.86 519646.64 640486.18 519645.70 640485.93 519697.58 640511.60 519697.18 640522.80 519695.98 640561.50 519721.03 640589.60 519719.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB54-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB54-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>ośrodek wypoczynkowy</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Relax</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ede7b5af-dbfa-4097-ae7f-6b26f273b753-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>641683.22 522362.80 641679.70 522356.70 641674.38 522358.99 641629.34 522378.39 641611.92 522408.78 641609.25 522411.44 641605.66 522413.29 641587.46 522444.62 641660.23 522498.55 641664.52 522501.76 641674.49 522496.30 641675.38 522490.38 641682.69 522462.77 641689.49 522437.88 641689.95 522430.04 641699.74 522392.11 641695.72 522384.18 641683.22 522362.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB50-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB50-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Teren zamknięty</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-705b2af0-0c49-4f3c-9dd8-9ba1de020a58-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640636.95 511984.47 640643.44 511949.11 640660.73 511843.46 640668.41 511797.91 640629.13 511758.69 640622.40 511758.05 640617.14 511757.75 640582.97 511716.74 640570.89 511717.28 640563.67 511717.64 640560.84 511718.72 640559.73 511720.00 640553.63 511724.21 640520.50 511744.75 640509.63 511751.09 640524.01 511793.47 640536.31 511828.56 640550.42 511870.62 640555.97 511918.89 640547.77 511982.28 640589.11 511983.66 640636.95 511984.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Ośrodek Szkoleniowo-Wypoczynkowy</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>ZELTOM</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1fd887af-b2bb-43e0-b7d8-96cf552d923f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633409.66 514801.66 633402.12 514800.66 633370.56 514754.56 633361.35 514760.38 633357.20 514763.00 633353.54 514766.00 633344.93 514762.18 633338.26 514758.73 633333.77 514758.36 633324.26 514760.34 633317.60 514762.10 633311.83 514762.90 633309.68 514762.79 633325.25 514788.90 633330.89 514796.92 633366.05 514849.25 633373.84 514844.48 633386.85 514836.52 633402.73 514825.82 633394.12 514815.18 633409.66 514801.66</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_2f660c31-1902-11ee-b340-001a7dda7111_2023-12-31T120000">
+			<ot:lokalnyId>2f660c31-1902-11ee-b340-001a7dda7111</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-99d8280f-eacb-4ea8-9cb2-b02d9fc3b218-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637460.19 512669.90 637474.51 512633.45 637439.08 512612.82 637448.75 512601.61 637428.98 512580.41 637352.31 512657.06 637369.30 512674.55 637369.95 512674.32 637373.84 512677.00 637412.84 512666.71 637415.81 512674.32 637428.03 512705.64 637445.64 512699.94 637456.00 512678.54 637460.19 512669.90</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB5A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB5A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Senior Marina</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0d104237-8b11-4892-a091-16b0999f88a7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640404.41 513568.36 640404.88 513577.32 640404.89 513585.92 640404.90 513586.35 640406.85 513677.27 640429.34 513676.74 640447.79 513676.27 640456.28 513676.09 640465.54 513675.89 640465.87 513682.94 640466.86 513692.29 640469.68 513712.28 640477.55 513712.87 640494.17 513718.11 640530.28 513716.04 640571.49 513711.57 640564.77 513669.98 640564.03 513654.42 640561.54 513649.75 640553.75 513646.47 640545.63 513643.43 640506.11 513628.64 640498.20 513624.43 640495.90 513616.55 640497.91 513590.95 640498.55 513585.13 640499.36 513577.77 640463.91 513577.91 640464.19 513569.61 640458.79 513567.67 640404.41 513568.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Ośrodek Wypoczynkowy Kancelarii Prezesa Rady Ministrów</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b13efa2c-4fa3-4b16-94ff-ec6bc403fc03-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639924.77 515663.53 639925.36 515695.44 639944.42 515694.82 639960.46 515694.04 639967.48 515692.31 639984.85 515691.96 639993.70 515690.73 640001.74 515689.73 640009.12 515715.18 639993.14 515717.59 639994.31 515724.91 639997.68 515745.93 639998.84 515753.20 640002.51 515759.44 640012.32 515756.70 640024.06 515753.45 640040.85 515748.80 640084.84 515734.33 640095.36 515729.25 640110.95 515721.89 640112.58 515738.83 640146.69 515732.10 640141.67 515695.46 640165.04 515673.02 640154.14 515622.82 640102.95 515613.61 640089.06 515635.86 640086.77 515639.49 640082.94 515640.64 640074.62 515641.70 640071.70 515642.07 640009.29 515652.96 639989.95 515656.04 639968.04 515658.02 639966.01 515661.91 639959.06 515661.85 639943.25 515662.52 639924.77 515663.53</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB51-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB51-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>centrum konferencyjno - szkoleniowe</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Lipowy Zakątek</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f74a0ac6-57b4-4653-82bf-11592f65399b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>641605.66 522413.29 641609.25 522411.44 641611.92 522408.78 641629.34 522378.39 641654.24 522338.87 641658.32 522333.29 641666.90 522327.19 641669.04 522314.31 641658.17 522299.65 641648.09 522284.27 641633.01 522259.01 641638.90 522255.24 641647.40 522252.02 641650.92 522236.16 641621.75 522231.48 641573.77 522218.97 641569.91 522218.53 641562.33 522217.64 641556.85 522216.99 641553.97 522219.63 641546.32 522226.74 641530.97 522233.61 641517.58 522241.33 641500.32 522251.13 641488.57 522261.63 641474.95 522271.12 641470.99 522274.15 641466.72 522275.05 641455.06 522277.50 641449.07 522283.67 641448.06 522289.54 641443.41 522293.92 641436.39 522296.53 641433.39 522298.99 641435.26 522305.58 641431.10 522316.25 641427.41 522321.71 641426.88 522328.58 641425.47 522334.40 641420.50 522343.38 641416.53 522354.25 641412.02 522358.53 641410.12 522362.42 641413.65 522376.48 641413.34 522387.90 641419.00 522395.31 641422.91 522400.15 641422.66 522412.07 641424.04 522412.40 641424.71 522412.56 641425.00 522412.62 641425.40 522412.72 641427.60 522413.24 641429.11 522413.60 641429.50 522413.69 641431.44 522414.15 641432.17 522414.32 641433.38 522414.61 641434.28 522414.82 641435.96 522415.22 641436.48 522415.34 641438.52 522415.82 641438.84 522415.90 641440.61 522416.32 641441.13 522416.44 641442.75 522416.82 641443.17 522416.92 641444.96 522417.35 641447.31 522417.91 641447.35 522418.25 641450.55 522441.96 641451.66 522449.91 641471.08 522482.06 641479.86 522496.55 641507.90 522515.57 641513.56 522506.86 641549.68 522449.91 641560.03 522433.79 641574.75 522407.73 641577.77 522406.83 641589.87 522409.90 641600.94 522412.88 641605.66 522413.29</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB55-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB55-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>ośrodek wypoczynkowy</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Szambelan</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4aa2da47-583b-4497-80fb-8638eee47c07-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>641744.73 522544.04 641710.90 522515.68 641664.52 522501.76 641660.23 522498.55 641587.46 522444.62 641605.66 522413.29 641600.94 522412.88 641589.87 522409.90 641577.77 522406.83 641574.75 522407.73 641560.03 522433.79 641549.68 522449.91 641513.56 522506.86 641507.90 522515.57 641510.69 522517.46 641537.22 522535.45 641561.23 522551.70 641679.27 522579.73 641731.37 522551.32 641744.73 522544.04</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Ośrodek Szkoleniowy Centrali PKP Jachranka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d6d1dd2f-e11e-40cb-8ffb-b0c340595e97-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633293.65 514901.44 633287.52 514879.25 633280.84 514856.38 633255.96 514828.66 633246.74 514818.37 633243.32 514813.84 633222.37 514835.59 633199.37 514859.35 633209.70 514868.92 633220.08 514881.86 633228.23 514893.68 633236.17 514909.30 633247.15 514926.25 633293.65 514901.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB46-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB46-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Mega Fun</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-52f8fee4-7ab7-421b-8135-c2f3725fe91c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639884.66 511303.59 639883.19 511340.73 639888.76 511340.81 639903.89 511342.25 639947.66 511344.97 640007.85 511348.83 640049.90 511352.00 640051.31 511354.43 640054.51 511354.67 640071.54 511355.88 640117.41 511359.11 640133.14 511360.25 640136.02 511348.37 640136.78 511345.24 640137.68 511343.56 640142.21 511343.84 640153.83 511346.40 640155.80 511342.95 640158.10 511339.41 640168.59 511319.87 640173.39 511311.14 640179.97 511296.66 640156.33 511286.01 640155.04 511288.55 640152.59 511293.40 640139.45 511319.32 640103.30 511294.16 640119.95 511270.15 640092.55 511257.95 640069.18 511248.57 640040.09 511240.11 640005.37 511231.12 639985.14 511225.27 639963.14 511220.42 639952.49 511217.88 639949.49 511217.17 639946.68 511216.47 639943.53 511214.05 639934.71 511206.06 639908.37 511179.13 639904.92 511197.25 639900.50 511192.18 639895.21 511254.30 639891.22 511254.37 639884.66 511303.59</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Policyjny Ośrodek Rekreacyjny Skubianka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5934ede4-e182-4806-9094-d87de28304a0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634870.31 513726.79 634852.40 513690.75 634774.72 513735.85 634696.23 513786.86 634721.00 513833.49 634743.77 513876.35 634757.83 513907.34 634778.55 513943.16 634783.95 513952.00 634796.45 513975.54 634800.36 513982.91 634804.52 513990.73 634830.86 514039.05 634833.06 514042.71 634849.16 514031.00 634886.99 514007.29 634890.49 514005.13 634912.99 513991.29 634928.34 513981.84 634934.22 513978.22 634966.66 513958.18 634961.81 513941.91 634959.23 513932.85 634953.91 513914.16 634974.02 513907.00 634961.12 513884.58 634870.31 513726.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB43-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB43-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>centrum kongresowe</ot:informacjaDodatkowa>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Warszawianka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1a432c17-254d-498c-9722-00d9f0b09720-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633780.25 515156.11 633733.21 515088.98 633770.14 515061.63 633797.79 515040.66 633789.76 515032.56 633788.01 515029.37 633697.15 514893.35 633689.28 514885.80 633683.85 514881.53 633679.33 514879.96 633677.28 514879.19 633675.11 514878.19 633673.52 514876.49 633666.77 514866.66 633671.52 514863.95 633666.06 514855.94 633609.92 514773.18 633592.18 514746.07 633578.32 514726.58 633531.79 514658.78 633508.74 514636.86 633492.09 514643.19 633446.03 514660.72 633402.79 514674.49 633388.64 514679.00 633343.55 514693.37 633335.50 514702.18 633337.55 514709.37 633328.60 514713.82 633339.59 514729.92 633347.45 514740.53 633361.35 514760.38 633370.56 514754.56 633402.12 514800.66 633409.66 514801.66 633410.95 514800.60 633414.41 514797.74 633447.05 514840.55 633464.87 514866.64 633467.92 514867.76 633474.30 514876.59 633479.38 514884.37 633479.13 514887.73 633612.89 515077.74 633638.50 515114.93 633651.91 515134.99 633656.91 515142.51 633693.19 515117.36 633698.73 515125.45 633740.51 515186.40 633755.47 515174.81 633780.25 515156.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB56-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB56-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>przystań wędkarska</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Wierzbica</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9f3792ad-d44c-46be-b651-6051b0b9f138-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640668.02 520363.00 640661.95 520360.52 640648.63 520362.20 640644.40 520362.74 640640.42 520362.49 640627.86 520361.72 640615.54 520361.46 640614.87 520391.89 640620.88 520392.02 640620.12 520416.87 640619.90 520426.69 640619.55 520431.29 640629.46 520431.81 640628.52 520463.74 640656.42 520471.20 640664.08 520473.25 640666.29 520438.85 640667.04 520427.26 640678.86 520426.93 640678.36 520421.95 640672.88 520421.85 640673.66 520417.64 640675.47 520416.37 640677.72 520398.13 640658.97 520397.34 640659.23 520390.94 640667.59 520383.79 640668.02 520363.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB48-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB48-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ab4d12b6-c03f-42d9-8a01-02ab5afe7c2c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637146.75 510081.16 637155.91 510073.95 637196.40 510031.83 637159.65 510024.42 637096.61 510011.40 637078.50 510044.45 637105.63 510058.88 637146.75 510081.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB47-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB47-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-65081dc2-7fa7-4770-89e3-e86f93a8e64b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636863.44 511943.41 636870.69 511940.51 636875.28 511936.40 636877.81 511930.72 636876.48 511924.56 636866.96 511910.25 636865.50 511905.35 636865.96 511899.87 636869.12 511895.69 636873.59 511893.39 636892.03 511887.60 636898.36 511885.65 636907.70 511882.73 636911.37 511885.29 636916.65 511898.06 636924.88 511919.69 636928.89 511930.66 636933.43 511938.69 636939.12 511941.22 636951.07 511942.39 636930.84 511894.86 636911.47 511856.20 636900.66 511857.60 636890.94 511856.91 636882.02 511855.06 636875.66 511853.26 636868.66 511849.78 636861.57 511845.48 636856.26 511840.83 636816.53 511798.80 636812.72 511806.66 636805.71 511818.99 636798.02 511827.75 636790.67 511834.62 636783.06 511839.74 636765.22 511850.57 636727.56 511870.05 636722.26 511873.14 636717.51 511876.49 636704.87 511886.65 636713.88 511918.85 636720.85 511941.72 636739.32 511935.92 636767.93 511927.19 636792.02 511919.83 636816.11 511912.48 636821.06 511913.81 636824.67 511918.48 636829.01 511923.78 636833.09 511928.72 636836.82 511933.41 636841.60 511938.10 636845.65 511941.26 636850.45 511943.07 636854.71 511943.74 636856.80 511944.25 636863.44 511943.41</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB5C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB5C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Venus Blue</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d65bbba8-14f9-4a2d-842a-9dbcbe2ed27e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>635195.11 504622.46 635194.67 504614.51 635194.20 504607.83 635194.01 504601.02 635192.29 504586.50 635188.29 504557.87 635187.59 504552.89 635182.50 504516.55 635142.53 504519.22 635147.12 504562.84 635154.00 504619.76 635155.08 504621.42 635156.59 504622.53 635175.11 504628.45 635195.43 504630.62 635195.11 504622.46</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Centrum Szkoleniowo-Konferencyjne CSK</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9cef86ff-bcff-476d-83d2-961d4178c79d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633248.14 515092.58 633168.30 514974.94 633167.66 514974.00 633166.08 514971.45 633163.10 514966.63 633125.90 514906.55 633077.53 514837.42 633024.77 514876.40 632997.17 514893.79 632974.67 514906.05 632950.39 514920.81 632910.06 514941.78 632911.83 514948.42 632965.35 515004.34 633050.39 515093.19 633056.27 515083.20 633065.50 515063.65 633070.90 515052.20 633072.74 515060.26 633074.41 515067.60 633087.47 515131.61 633091.74 515142.79 633094.28 515148.58 633097.23 515153.06 633101.96 515157.91 633107.76 515161.95 633167.24 515192.02 633178.91 515199.10 633184.21 515203.69 633188.45 515208.65 633205.79 515231.18 633239.77 515277.59 633243.83 515274.61 633264.36 515260.88 633325.47 515219.29 633331.36 515214.71 633302.69 515172.81 633299.23 515167.39 633292.52 515156.85 633275.39 515133.31 633272.68 515129.40 633262.30 515113.95 633252.19 515098.69 633248.14 515092.58</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Yacht Klub Polski Warszawa</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4b99d24e-41e9-45f3-bdee-cf4f245b5702-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640324.14 516098.52 640313.94 516071.89 640287.04 516084.73 640289.39 516089.68 640280.01 516093.70 640307.03 516157.53 640323.97 516203.24 640348.92 516195.36 640333.28 516136.22 640328.18 516116.36 640325.55 516104.77 640324.14 516098.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB32-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB32-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Pałac Zegrzyński</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-45c200a4-1e73-4029-ab03-860e76493876-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638835.99 512746.49 638836.64 512716.23 638864.23 512716.84 638864.79 512650.22 638903.66 512650.92 638913.38 512618.98 638925.67 512599.50 638925.52 512599.33 638925.17 512598.94 638853.60 512522.33 638841.51 512510.55 638797.92 512468.07 638780.01 512446.26 638766.45 512425.67 638746.35 512402.89 638729.15 512392.00 638721.46 512405.56 638712.06 512403.59 638690.23 512385.66 638683.88 512393.68 638679.55 512399.26 638659.98 512391.19 638635.52 512381.93 638637.87 512373.37 638638.56 512366.05 638637.67 512363.32 638630.89 512342.67 638630.76 512342.27 638622.47 512338.62 638619.62 512337.36 638593.62 512329.09 638588.26 512329.01 638585.95 512328.46 638583.64 512327.92 638579.38 512326.06 638571.52 512327.97 638559.16 512325.79 638550.69 512322.37 638535.06 512319.18 638530.01 512319.34 638524.44 512316.82 638517.54 512313.71 638505.52 512308.72 638502.88 512306.90 638500.86 512306.13 638497.43 512306.00 638486.29 512300.83 638479.29 512298.07 638477.76 512294.49 638475.60 512290.38 638471.56 512288.48 638467.28 512289.91 638462.23 512290.89 638450.30 512287.31 638445.75 512285.20 638436.00 512282.26 638426.17 512279.56 638406.28 512272.50 638389.96 512267.97 638358.59 512265.00 638321.06 512251.18 638314.13 512252.41 638316.09 512261.92 638311.88 512268.89 638305.92 512321.86 638296.54 512320.33 638293.84 512340.21 638330.24 512341.79 638331.66 512392.28 638363.41 512395.23 638373.02 512395.23 638380.71 512394.49 638393.01 512394.49 638399.43 512394.18 638405.61 512393.85 638407.42 512351.63 638409.47 512323.69 638445.86 512332.64 638445.60 512351.33 638512.01 512359.88 638516.12 512386.42 638519.65 512387.81 638531.49 512389.54 638547.38 512390.71 638572.21 512393.02 638573.46 512393.49 638575.25 512362.26 638586.40 512361.50 638586.49 512367.98 638585.19 512388.79 638582.90 512394.61 638580.86 512399.79 638581.80 512426.76 638580.62 512447.98 638580.32 512453.34 638577.05 512525.39 638571.18 512572.36 638560.68 512572.18 638556.09 512613.22 638414.13 512601.91 638382.17 512599.78 638376.38 512599.58 638381.96 512799.26 638381.11 512807.83 638387.05 512808.03 638417.46 512809.14 638433.79 512810.18 638450.87 512812.60 638471.62 512813.89 638534.03 512810.66 638572.66 512808.88 638623.65 512806.51 638629.54 512806.31 638655.46 512805.62 638719.01 512803.93 638772.40 512803.61 638779.95 512803.56 638834.31 512803.23 638835.99 512746.49</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Narvil</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-56e10e89-043b-44f0-a4be-395c92277d3a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640262.71 516764.62 640271.16 516764.48 640276.61 516757.83 640321.96 516744.89 640346.22 516737.96 640375.94 516729.48 640413.79 516718.68 640398.33 516661.79 640373.40 516578.24 640335.59 516503.47 640259.50 516497.28 640231.88 516495.03 640230.45 516498.72 640223.17 516515.47 640220.08 516522.59 640207.59 516551.02 640204.56 516558.05 640189.56 516592.79 640186.77 516602.07 640172.13 516641.40 640159.11 516673.95 640144.85 516705.60 640143.23 516708.99 640140.70 516715.83 640151.36 516725.03 640158.40 516731.20 640171.53 516742.71 640206.58 516777.29 640208.96 516779.74 640230.23 516773.76 640262.71 516764.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Pan Tadeusz</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4023cf10-3367-408d-b0dc-782c0855ebfb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640307.79 516863.47 640410.36 516834.89 640400.51 516795.29 640351.96 516809.27 640309.55 516821.56 640292.74 516826.36 640299.93 516853.57 640303.39 516865.11 640307.79 516863.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB40-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB40-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Złoty Lin</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f4867f8d-050b-4e77-aa8a-ac8cdcd341f1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640307.56 520365.01 640291.49 520361.47 640291.52 520430.69 640291.55 520505.60 640291.55 520511.08 640292.77 520534.48 640291.86 520580.17 640346.81 520572.47 640370.76 520569.28 640380.01 520562.90 640380.02 520560.97 640380.17 520538.07 640380.43 520499.07 640380.72 520454.94 640380.84 520436.86 640380.26 520425.72 640380.12 520415.24 640375.18 520388.31 640323.03 520369.39 640310.02 520365.71 640307.56 520365.01</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB44-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB44-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>wynajem pokoi gościnnych</ot:informacjaDodatkowa>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>U Haliny</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-83b8ed41-374e-4262-b1c4-7191a6eac760-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640552.29 518893.43 640592.67 518886.07 640619.07 518881.26 640602.30 518864.89 640543.21 518868.32 640492.17 518877.40 640463.16 518882.09 640463.45 518883.87 640467.48 518908.20 640486.51 518905.30 640508.30 518901.45 640552.29 518893.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Yacht Klub Polski Warszawa</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f8b91e20-4573-4f79-856f-e2cfe0893464-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640242.58 516208.74 640272.55 516201.82 640283.13 516199.22 640280.23 516186.44 640268.17 516133.31 640258.76 516135.59 640257.55 516135.84 640230.63 516142.19 640209.27 516147.76 640223.16 516206.41 640224.25 516211.01 640242.58 516208.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB36-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB36-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Centrum Konferencyjne Instytutu Rozwoju Biznesu</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e36840ec-5d02-488c-87b5-38c432982804-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640231.61 516320.28 640290.47 516306.04 640288.98 516300.29 640287.30 516293.41 640284.82 516283.32 640284.42 516281.72 640288.91 516280.69 640279.97 516233.96 640290.67 516231.42 640283.13 516199.22 640272.55 516201.82 640242.58 516208.74 640224.25 516211.01 640225.36 516216.04 640227.91 516227.56 640239.85 516224.78 640240.65 516231.80 640227.16 516234.61 640206.67 516238.58 640200.23 516241.22 640195.44 516245.85 640190.98 516254.45 640169.50 516294.29 640186.88 516305.20 640192.69 516306.01 640201.30 516307.79 640208.47 516307.26 640220.46 516315.02 640231.61 516320.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB37-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB37-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Centrum Konferencyjno - Szkoleniowe Nicolla</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-01ea2d82-34ed-4c03-93f3-bcf0746a7782-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640324.09 516420.08 640327.50 516419.17 640328.78 516424.01 640341.29 516420.79 640347.16 516419.17 640335.38 516373.42 640330.72 516355.84 640321.70 516323.30 640297.18 516329.68 640245.92 516344.23 640243.70 516335.77 640243.54 516335.16 640208.45 516344.37 640210.85 516353.49 640169.87 516362.24 640178.20 516367.19 640190.96 516377.25 640254.54 516421.89 640280.33 516412.43 640283.54 516417.96 640286.80 516430.02 640310.16 516423.78 640324.09 516420.08</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Krajowa Szkoła Sądownictwa i Prokuratury Ośrodek Szkoleniowy w Dębem</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-514fd8f0-318b-429e-b9d7-343a0a3a8182-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630365.06 515918.12 630374.96 515913.32 630375.93 515915.23 630396.50 515905.97 630407.79 515900.88 630414.27 515897.96 630418.50 515886.84 630417.24 515866.90 630515.60 515877.24 630517.67 515835.29 630517.79 515828.45 630518.87 515772.61 630520.11 515729.07 630486.06 515727.13 630463.66 515725.85 630438.67 515724.42 630429.82 515724.28 630428.08 515720.60 630424.99 515718.28 630416.28 515718.67 630409.90 515720.80 630401.77 515723.21 630393.84 515724.28 630384.85 515724.37 630377.69 515723.60 630373.72 515721.67 630369.76 515718.67 630365.31 515717.41 630354.57 515716.64 630344.90 515715.57 630335.49 515719.52 630334.36 515731.24 630330.68 515752.81 630315.79 515752.81 630316.17 515763.64 630314.72 515769.35 630293.44 515775.64 630283.87 515784.25 630282.77 515807.51 630280.65 515822.60 630286.88 515823.47 630295.54 515825.91 630293.31 515841.16 630288.57 515883.33 630288.33 515885.52 630285.02 515914.94 630298.91 515917.22 630307.27 515917.70 630315.74 515916.21 630344.57 515918.06 630349.03 515915.90 630352.13 515918.31 630357.14 515920.19 630361.27 515919.57 630361.56 515919.46 630365.06 515918.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB31-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB31-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9cffac10-0574-41f6-9acb-400c7aacc6f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636957.36 510333.54 636981.20 510301.13 636987.60 510292.45 636930.97 510257.95 636927.29 510255.77 636921.76 510252.49 636912.98 510257.10 636912.29 510257.47 636865.69 510281.57 636871.71 510285.56 636874.46 510287.38 636955.64 510336.39 636957.36 510333.54</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB57-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB57-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Ośrodek Konferencyjno-Rekreacyjny</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Promenada</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-af3d055f-7f9f-440d-a460-4aa79315f2f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640757.34 513501.19 640765.31 513458.26 640776.96 513418.72 640792.89 513348.81 640805.15 513293.00 640807.80 513266.35 640812.52 513245.41 640816.94 513232.94 640819.00 513227.13 640832.86 513184.53 640842.29 513152.09 640855.26 513111.68 640861.15 513085.44 640864.69 513063.02 640864.40 513052.11 640856.00 513037.51 640849.86 513031.76 640865.84 513010.67 640937.61 512927.41 640961.77 512899.39 640964.59 512880.86 640968.35 512858.51 640972.84 512831.78 640990.14 512728.84 640826.57 512696.01 640797.85 512690.51 640751.39 512680.76 640710.00 512672.08 640665.50 512662.74 640645.97 512658.64 640594.28 512647.79 640532.29 512635.16 640528.72 512634.36 640483.27 512624.95 640472.11 512622.69 640461.26 512670.07 640465.77 512671.36 640472.61 512673.16 640481.63 512675.16 640480.30 512681.27 640478.80 512680.99 640472.89 512705.75 640466.74 512704.36 640464.96 512704.04 640454.11 512700.90 640438.04 512771.97 640405.37 512915.26 640388.55 512984.60 640387.85 512987.74 640377.66 513022.16 640367.43 513066.24 640364.07 513081.89 640348.83 513152.83 640347.41 513159.45 640335.89 513208.72 640330.59 513231.98 640316.32 513296.47 640308.16 513332.38 640301.47 513361.78 640291.88 513415.02 640294.95 513417.45 640313.63 513430.80 640323.26 513437.69 640351.31 513457.17 640405.02 513495.00 640414.82 513501.90 640454.28 513529.99 640458.44 513532.93 640482.63 513550.01 640488.47 513529.29 640486.58 513498.22 640515.66 513472.12 640518.99 513493.21 640523.42 513506.53 640533.97 513522.07 640558.93 513544.50 640662.12 513617.22 640678.68 513623.88 640691.22 513608.68 640707.64 513588.77 640725.58 513562.43 640742.63 513534.45 640750.60 513521.42 640757.34 513501.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>640623.09 513191.25 640624.06 513179.26 640637.97 513180.52 640730.97 513193.30 640740.12 513193.20 640745.54 513189.46 640747.01 513183.83 640745.91 513178.99 640742.17 513174.38 640737.04 513172.05 640625.82 513159.68 640626.38 513153.03 640627.66 513143.47 640748.60 513160.97 640757.55 513165.51 640754.80 513175.99 640750.05 513226.82 640702.07 513221.77 640621.30 513213.26 640621.76 513207.80 640623.09 513191.25</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB42-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB42-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>GUS-Centrum Edukacji Statycznej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-202abcca-f5cc-460d-8fa7-1ccd41fc7064-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634140.40 514612.31 634139.08 514590.59 634137.35 514570.18 634135.80 514544.08 634134.83 514533.34 634130.09 514533.99 634118.41 514535.59 634098.86 514538.26 634095.08 514522.79 634090.02 514502.12 634066.10 514507.59 634054.64 514510.21 634017.14 514520.59 633990.53 514529.36 633998.14 514541.53 634000.66 514545.58 634016.29 514570.59 634028.09 514588.35 634045.33 514613.99 634047.97 514612.04 634064.34 514636.92 634066.69 514640.12 634084.81 514664.95 634088.79 514670.42 634118.42 514713.28 634132.01 514730.99 634141.88 514732.25 634147.70 514733.38 634157.92 514735.81 634153.22 514719.43 634149.97 514704.71 634145.89 514677.85 634144.09 514655.74 634143.31 514646.40 634141.61 514625.74 634140.40 514612.31</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB3D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB3D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>WINDSOR</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b699f30e-5212-4a07-b192-8897ccd74c85-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633617.46 515277.70 633693.80 515220.79 633638.87 515142.45 633530.45 514983.53 633503.48 515003.65 633502.20 515004.53 633475.15 515023.00 633453.96 515039.62 633447.91 515043.85 633438.16 515050.37 633430.67 515042.42 633416.91 515054.39 633415.18 515055.89 633420.83 515063.48 633423.30 515067.10 633460.02 515119.66 633501.66 515179.28 633560.06 515257.73 633589.95 515298.11 633617.46 515277.70</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB39-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB39-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Hotel 500</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-73a70823-42dd-4372-a5b5-da17b829d1a1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636458.66 511183.77 636438.14 511152.06 636413.80 511167.28 636396.01 511179.23 636398.94 511180.16 636400.85 511182.80 636451.03 511254.12 636450.66 511254.43 636474.43 511288.38 636479.03 511294.85 636494.33 511316.57 636481.95 511326.10 636493.41 511342.66 636496.07 511346.50 636496.56 511346.15 636503.97 511341.04 636518.04 511331.34 636526.98 511324.23 636549.21 511315.26 636541.26 511305.98 636501.04 511240.52 636491.12 511231.91 636458.66 511183.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB49-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB49-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d46af028-51ac-4c3a-a250-0fe313d24768-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640577.25 512028.65 640545.46 512027.46 640544.20 512109.95 640543.68 512124.87 640598.78 512127.03 640608.09 512127.40 640633.98 512128.41 640659.67 512129.88 640661.18 512118.77 640667.33 512100.42 640669.58 512094.79 640677.30 512031.92 640657.92 512031.78 640636.31 512031.60 640610.92 512030.08 640596.02 512029.18 640577.25 512028.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB58-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB58-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Parasol</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c5375892-f39a-4090-b048-f4747a3d048d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637749.23 509743.77 637760.38 509741.70 637770.51 509741.88 637770.80 509730.81 637772.43 509712.83 637780.57 509686.08 637712.10 509664.62 637702.02 509661.46 637694.01 509658.95 637694.71 509656.48 637691.13 509655.32 637671.14 509648.85 637620.85 509632.59 637601.62 509626.37 637594.02 509623.80 637581.44 509619.84 637569.07 509616.60 637524.30 509676.67 637497.59 509711.16 637518.49 509718.73 637585.21 509743.60 637632.45 509760.73 637656.22 509768.20 637673.74 509763.82 637714.11 509753.51 637732.64 509748.51 637749.23 509743.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB38-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB38-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Cicha Woda</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ff1edb82-ac99-4c29-b6d4-94eeb5529cb7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637833.05 509650.94 637618.59 509584.93 637597.96 509579.31 637569.07 509616.60 637581.44 509619.84 637594.02 509623.80 637601.62 509626.37 637620.85 509632.59 637671.14 509648.85 637691.13 509655.32 637694.71 509656.48 637694.01 509658.95 637702.02 509661.46 637712.10 509664.62 637780.57 509686.08 637818.22 509697.89 637833.05 509650.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB4C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB4C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Ośrodek Wypoczynkowy Skubianka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-94c29493-1f66-4e4f-8925-19ea2db0b9cf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>635455.64 513444.75 635395.58 513317.42 635379.06 513327.70 635297.26 513378.61 635282.82 513387.60 635306.09 513450.46 635335.49 513529.85 635439.92 513625.17 635547.33 513723.21 635575.59 513670.24 635578.86 513667.23 635570.58 513658.94 635561.83 513647.11 635552.15 513632.04 635547.31 513617.32 635542.23 513594.35 635539.60 513581.29 635538.72 513572.70 635539.16 513565.51 635535.74 513563.72 635517.50 513551.81 635511.34 513546.76 635503.80 513538.35 635500.63 513533.26 635493.74 513522.20 635472.58 513481.19 635465.08 513467.12 635457.58 513452.12 635455.64 513444.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB5D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB5D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Różany Dwór</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b0955cfa-23f8-49b0-9a9a-c515f6a9b266-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631078.36 510879.78 631013.22 510896.25 631004.77 510898.00 631013.64 510904.46 631076.73 510948.89 631107.56 510970.60 631133.64 510988.97 631140.63 510994.17 631186.30 510956.52 631166.09 510942.35 631129.51 510916.30 631109.65 510902.15 631088.89 510887.37 631078.36 510879.78</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_6f8607ce-1011-4c83-b745-da93dbe6cd11_2023-12-31T120000">
+			<ot:lokalnyId>6f8607ce-1011-4c83-b745-da93dbe6cd11</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-40f5cce5-b2c6-4341-9dec-7eecfd9b480a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639491.29 516476.95 639517.61 516469.88 639542.98 516463.07 639549.61 516461.29 639540.37 516431.66 639520.88 516436.51 639520.52 516435.44 639517.49 516424.36 639512.29 516404.39 639522.40 516401.05 639516.56 516380.01 639447.92 516399.22 639403.85 516411.71 639403.23 516411.85 639399.40 516413.18 639407.04 516428.37 639401.92 516431.33 639406.63 516439.13 639422.01 516464.62 639438.08 516491.24 639491.29 516476.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB41-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB41-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Centrum Kształcenia Ministerstwa Finansów</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-637b04e0-e780-4ddf-ba4a-6f8ca6fdd949-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640571.71 511689.51 640576.04 511682.22 640585.01 511661.00 640578.18 511655.27 640563.97 511642.06 640550.78 511631.27 640545.53 511626.27 640535.27 511640.65 640534.81 511645.02 640510.33 511669.57 640510.25 511669.65 640504.63 511675.51 640517.86 511698.31 640522.49 511706.33 640518.06 511715.22 640517.28 511718.22 640517.17 511720.33 640518.76 511731.96 640520.50 511744.75 640553.63 511724.21 640551.52 511720.27 640556.86 511715.71 640563.03 511704.14 640571.71 511689.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_c59b00c8-39ec-4e87-976c-cbeca1f526ce_2023-12-31T120000">
+			<ot:lokalnyId>c59b00c8-39ec-4e87-976c-cbeca1f526ce</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6f5991ff-96d4-4e62-8803-2b42f043947a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639748.36 521293.47 639788.71 521269.23 639792.64 521265.31 639796.43 521258.13 639797.72 521250.75 639796.76 521243.84 639793.05 521236.87 639764.03 521189.44 639760.86 521186.19 639754.66 521184.67 639743.69 521184.27 639736.18 521184.47 639725.89 521187.25 639702.53 521195.44 639683.81 521199.43 639696.47 521222.28 639748.36 521293.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_a814d053-fe56-4435-91dc-6a87473d96f3_2023-12-31T120000">
+			<ot:lokalnyId>a814d053-fe56-4435-91dc-6a87473d96f3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Rewita Rynia</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c3bbde6a-3a25-4942-ba99-dbdcb3e475f2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640539.82 512187.75 640531.69 512186.68 640515.84 512232.37 640515.66 512232.89 640503.28 512311.69 640559.74 512365.91 640562.04 512363.61 640565.79 512361.03 640571.69 512359.61 640573.02 512356.70 640576.00 512353.56 640579.54 512352.02 640583.53 512351.69 640583.88 512340.44 640581.88 512325.88 640579.55 512314.87 640577.03 512302.26 640577.04 512292.10 640577.81 512285.03 640577.09 512279.11 640576.17 512273.96 640571.04 512261.63 640565.61 512253.01 640558.37 512241.35 640551.37 512223.25 640547.11 512210.74 640539.82 512187.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_c717a7ea-348c-4c72-a6ec-06f0b02f7bdb_2023-12-31T120000">
+			<ot:lokalnyId>c717a7ea-348c-4c72-a6ec-06f0b02f7bdb</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bb91c21b-b74d-4a17-91ef-85beb3dab5f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631994.98 512422.40 632017.95 512411.69 632011.74 512392.60 631971.25 512282.65 631941.40 512201.34 631915.47 512209.74 631946.90 512291.74 631991.46 512413.03 631993.36 512417.65 631994.98 512422.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB30-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB30-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Marina Diana</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-fd09ac83-5218-41ea-a311-5b3d6ce888fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640247.25 511406.15 640251.02 511400.10 640253.93 511395.69 640271.95 511409.97 640282.14 511397.69 640265.49 511384.22 640271.90 511374.35 640260.49 511364.80 640248.36 511354.06 640227.51 511337.14 640224.14 511341.52 640209.86 511331.44 640191.31 511358.29 640184.33 511368.70 640195.07 511377.00 640186.07 511390.35 640184.11 511392.88 640190.99 511395.08 640224.75 511409.13 640240.51 511415.39 640247.25 511406.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB34-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB34-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2c70dee9-7995-4a51-b2e7-f72d10f7d13f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640063.86 514799.20 640062.40 514792.99 640055.33 514757.33 640046.46 514721.42 640036.97 514690.36 640032.63 514675.90 640032.18 514673.28 640031.20 514669.93 640014.24 514671.40 639973.76 514676.38 639995.18 514757.47 640003.58 514795.14 640004.35 514798.60 640012.32 514799.27 640018.23 514800.19 640024.94 514801.33 640045.42 514802.71 640050.08 514801.89 640057.29 514800.38 640063.86 514799.20</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D12-BB5B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-BB5B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Zakłady lotnicze nr 4 Ośrodek Rekreacyjno-Wypoczynkowy</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-35ed7e2b-9e96-4627-900f-2934d1a325c6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>641396.08 514276.62 641401.75 514245.60 641403.68 514235.06 641443.25 514242.16 641473.13 514245.40 641491.64 514251.44 641504.10 514257.87 641512.81 514208.41 641513.74 514203.56 641508.78 514203.91 641481.49 514205.88 641466.15 514204.96 641456.10 514203.33 641427.64 514196.95 641413.82 514194.12 641403.45 514191.17 641395.94 514188.07 641382.48 514178.50 641366.20 514167.35 641345.66 514152.12 641324.00 514137.61 641316.68 514132.73 641302.23 514124.90 641289.55 514118.14 641280.00 514114.64 641276.82 514113.47 641265.02 514109.14 641257.59 514107.14 641242.99 514103.22 641225.75 514098.58 641219.83 514097.11 641209.79 514094.62 641192.05 514090.21 641189.33 514089.53 641171.51 514085.10 641162.80 514082.94 641152.85 514080.65 641131.93 514075.85 641124.13 514074.06 641111.17 514071.04 641091.21 514066.38 641079.71 514063.70 641073.77 514062.40 641067.10 514060.94 641065.74 514066.89 641056.30 514108.28 641077.95 514113.58 641100.57 514119.13 641089.66 514162.40 641081.06 514196.52 641100.43 514201.46 641157.03 514215.76 641158.55 514216.14 641171.62 514219.59 641185.70 514223.31 641187.45 514223.77 641187.83 514223.87 641244.26 514238.76 641243.36 514263.67 641290.18 514270.32 641293.39 514256.90 641313.99 514260.86 641319.00 514261.82 641328.37 514263.62 641360.16 514269.72 641396.08 514276.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

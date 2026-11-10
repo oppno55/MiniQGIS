@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SWKN_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5067-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5067-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>inne</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-868e48e1-6ff8-4657-874f-61152e1451d7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>635528.57 505467.30 635513.26 505493.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_E68691A0-F222-4554-9DAB-4357206CEDC8_2023-12-31T120000">
+			<ot:lokalnyId>E68691A0-F222-4554-9DAB-4357206CEDC8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">3.5</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-38cd051c-79de-47fe-862c-bef69d34b5fe-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637856.09 501589.48 637856.67 501616.42 637858.01 501629.15 637863.64 501644.07 637866.74 501652.32 637868.26 501656.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_E493C660-0E27-49EB-9C6A-33C47002137B_2023-12-31T120000">
+			<ot:lokalnyId>E493C660-0E27-49EB-9C6A-33C47002137B</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5f5e96b8-2827-4b84-b078-4a0f68570206-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637855.86 501578.83 637856.09 501589.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-506A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-506A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-94bea981-5b1c-45c1-9a15-a7d6e2ab35e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638010.07 501843.16 638017.88 501851.76 638020.92 501856.10 638025.28 501863.79 638027.33 501874.85 638028.72 501880.95 638029.62 501884.93 638033.80 501903.32 638044.05 501922.86 638054.28 501940.75 638056.65 501954.42 638056.92 501956.49 638057.30 501961.39 638057.33 501968.24 638066.11 502048.80 638067.30 502067.85 638065.66 502078.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-506D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-506D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>pod powierzchnią</ot:polozenie>
+			<ot:szerokosc uom="m">3.5</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e2ca1179-f580-43e7-b684-183cd28f99af-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637868.26 501656.34 637869.00 501658.40 637873.69 501667.17 637880.42 501675.36 637884.56 501680.44 637904.78 501705.29 637908.60 501710.86 637909.36 501711.97 637918.29 501725.01 637931.97 501745.59 637939.09 501756.95 637943.40 501763.84 637947.46 501770.00 637951.61 501775.51 638010.07 501843.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_1ae4bc65-a2ef-4804-a79a-39039859d602_2023-12-31T120000">
+			<ot:lokalnyId>1ae4bc65-a2ef-4804-a79a-39039859d602</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">6.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e8efe630-6121-433a-96b5-2cc6dfc76a44-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630186.87 511867.90 630186.77 511878.50 630185.10 511887.88 630182.08 511897.58 630173.69 511924.01 630152.37 511991.15 630150.06 511999.33 630143.58 512016.40 630138.65 512029.55 630136.49 512039.62 630133.30 512067.59 630131.34 512102.50 630131.34 512131.68 630131.87 512161.32 630129.11 512224.98 630129.84 512231.37 630144.11 512304.93 630156.09 512359.54 630162.24 512397.46 630172.61 512461.47 630175.02 512485.59 630175.02 512496.45 630173.61 512512.13 630171.00 512526.81 630166.50 512539.55 630164.92 512544.10 630163.37 512549.97 630160.58 512560.62 630155.17 512605.44 630152.73 512615.01 630149.99 512620.19 630147.37 512623.00 630143.87 512626.85 630132.44 512635.42 630129.61 512638.10 630127.54 512641.02 630124.51 512645.69 630119.38 512658.76 630103.14 512686.80 630102.67 512687.65 630041.62 512774.66 630036.09 512784.12 630008.95 512830.89 629978.22 512878.44 629933.43 512944.04 629914.53 512974.62 629897.37 513000.55 629888.69 513011.78 629882.57 513020.15 629875.75 513031.11 629869.50 513041.16 629860.56 513055.05 629857.29 513062.35 629854.57 513071.04 629834.27 513136.87 629819.37 513186.93 629817.48 513198.97 629817.48 513206.77 629817.49 513208.92 629818.64 513212.22 629822.91 513221.41 629830.69 513239.59 629839.19 513263.20 629850.37 513300.48 629854.57 513317.99 629861.33 513340.17 629864.37 513354.41 629865.29 513362.89 629865.30 513370.05 629864.57 513375.62 629862.73 513382.60 629861.62 513391.67 629860.92 513398.81 629860.43 513405.75 629860.61 513413.60 629860.17 513423.67 629859.38 513434.42 629859.34 513441.50 629860.40 513462.19 629861.15 513469.72 629862.27 513475.96 629865.54 513502.57 629867.50 513521.83 629869.53 513541.74 629870.56 513550.37 629874.40 513568.41 629877.67 513579.38 629884.04 513592.21 629891.03 513607.87 629896.44 513621.16 629901.70 513634.01 629906.36 513644.28 629912.90 513657.82 629914.94 513661.51 629918.96 513670.66 629920.60 513679.30 629921.36 513684.73 629924.04 513702.36 629926.38 513713.69 629932.81 513729.11 629933.95 513734.42 629935.00 513739.33 629936.02 513745.13 629936.92 513750.42 629936.86 513754.23 629937.06 513758.76 629936.67 513762.31 629933.55 513773.42 629930.92 513778.04 629927.90 513785.69 629925.79 513791.85 629924.51 513800.30 629922.08 513817.77 629919.09 513838.37 629917.30 513842.79 629915.69 513845.68 629911.99 513849.11 629910.25 513852.07 629906.85 513860.68 629906.70 513862.78 629906.62 513869.93 629906.62 513883.23 629905.88 513895.75 629905.88 513899.72 629907.44 513906.18 629910.70 513912.98 629911.54 513920.25 629910.52 513926.90 629909.88 513932.74 629909.78 513939.72 629909.53 513943.09 629909.55 513947.07 629909.69 513949.77 629910.21 513952.77 629912.88 513957.75 629914.35 513962.01 629916.14 513972.52 629917.58 513983.88 629918.11 513989.77 629918.52 513995.85 629918.44 514007.31 629918.54 514010.93 629918.97 514015.03 629919.36 514019.11 629920.04 514025.19 629920.55 514030.98 629926.03 514093.79 629928.64 514127.17 629929.39 514143.39 629929.88 514148.53 629929.65 514152.82 629928.53 514157.99 629926.62 514163.96 629923.26 514170.96 629917.69 514181.59 629912.95 514189.37 629908.57 514196.51 629906.05 514203.98 629905.17 514210.35 629903.82 514215.91 629900.89 514222.21 629887.74 514245.61 629863.84 514285.57 629859.77 514290.81 629851.39 514299.08 629850.28 514302.15 629848.78 514305.53 629848.51 514307.63 629849.01 514309.92 629848.47 514312.25 629843.10 514319.69 629839.05 514325.58 629833.00 514332.15 629828.92 514339.81 629820.22 514378.89 629799.83 514443.57 629792.30 514466.87 629789.51 514473.99 629788.22 514485.23 629790.12 514497.47 629797.70 514512.98 629800.28 514524.35 629800.80 514531.93 629794.08 514540.89 629786.84 514546.06 629774.04 514551.90 629767.72 514555.86 629760.06 514561.21 629753.58 514567.09 629750.31 514576.05 629747.90 514584.15 629744.28 514587.94 629739.50 514591.66 629737.67 514600.58 629737.62 514611.37 629740.66 514618.79 629748.07 514627.06 629752.89 514636.71 629753.24 514645.67 629751.15 514653.44 629751.71 514660.80 629752.19 514670.19 629752.63 514691.14 629753.12 514716.32 629753.11 514723.19 629753.66 514728.76 629754.70 514735.92 629757.19 514747.35 629758.76 514755.97 629760.18 514766.00 629760.96 514775.18 629761.95 514801.62 629762.20 514817.03 629765.97 514850.37 629767.80 514861.51 629777.85 514906.93 629781.59 514932.13 629784.24 514945.81 629786.48 514960.11 629786.94 514963.03 629787.49 514974.13 629788.55 514983.39 629790.03 514991.95 629798.87 515029.25 629802.04 515048.94 629803.30 515056.75 629809.17 515084.63 629815.80 515113.15 629821.48 515146.23 629821.75 515147.78 629822.48 515164.77 629824.21 515177.97 629826.89 515208.09 629827.66 515212.71 629829.39 515223.08 629831.28 515234.37 629831.68 515237.76 629832.72 515247.04 629835.17 515251.95 629837.01 515255.53 629838.26 515259.42 629838.44 515264.84 629836.50 515271.69 629834.43 515276.94 629830.46 515284.69 629822.19 515291.92 629821.14 515293.93 629821.24 515299.83 629820.29 515301.73 629818.60 515303.00 629814.70 515304.79 629811.79 515307.40 629810.27 515309.64 629810.15 515312.98 629810.51 515315.49 629810.15 515318.40 629808.92 515320.32 629807.57 515321.24 629806.41 515321.24 629804.23 515320.00 629802.05 515319.54 629798.62 515320.50 629795.57 515321.42 629790.88 515321.85 629788.08 515323.06 629784.26 515325.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5077-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5077-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Nazwa oboczna: Kanał Buchnik</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>41140</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:nazwa>Kanał Henrykowski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4552a314-7a08-458f-9563-6388aae87539-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>629907.97 502211.30 629882.56 502187.69</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+			<ot:identyfikatorMPHP>2598</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5074-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5074-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Nazwa oboczna: Kanał Buchnik</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>41140</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:nazwa>Kanał Henrykowski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-aa486ae5-a5be-4ec4-a252-bf432a2312d9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630332.83 502200.61 630327.60 502197.25 630325.14 502195.62 630320.89 502192.82 630318.27 502191.08 630315.09 502188.99 630306.33 502183.89 630271.41 502163.54 630246.53 502150.77 630230.16 502147.71 630216.19 502149.31 630203.46 502152.80 630133.91 502193.37 630128.81 502195.49 630108.61 502201.72 630007.03 502238.73 629992.79 502247.80 629984.85 502252.77 629974.09 502256.70 629965.41 502257.28 629959.74 502255.53 629953.29 502248.43 629944.79 502239.82 629936.01 502234.74 629922.98 502226.77 629917.35 502222.38 629907.97 502211.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2598</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5078-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5078-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>inne</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-abc3dc56-00db-4db6-92c7-e1a3aa67d7f4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630858.87 511173.38 630842.02 511186.37 630802.49 511216.86 630786.57 511229.13 630783.62 511231.41 630762.04 511237.01 630653.66 511265.16 630621.88 511273.41</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-507A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-507A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Nazwa oboczna: Kanał Buchnik</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>41140</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:nazwa>Kanał Henrykowski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-56041da5-464c-4ca3-b250-a51d8a11d888-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631397.90 500923.92 631339.16 500974.02 631234.07 501060.59 631189.07 501099.67 631107.13 501170.66 631072.00 501211.99 631043.75 501250.56 631034.36 501260.93 631030.37 501266.12 631025.28 501274.38 631008.00 501302.42 630980.83 501341.82 630964.86 501366.12 630962.76 501369.31 630959.19 501374.74 630951.14 501388.19 630943.15 501403.42 630939.59 501468.83 630937.51 501691.40</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2598</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5062-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5062-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Kanał Królewski</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>163698</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">45.0</ot:szerokosc>
+			<ot:nazwa>Kanał Żerański</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-079bb863-9200-47f5-a1c9-67a669f8d68b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638475.67 503087.76 638476.90 503102.27 638489.92 503255.98 638493.08 503310.34 638520.44 503616.23 638577.83 504230.76 638598.88 504469.44 638606.74 504525.75 638616.23 504591.10 638618.90 504606.64 638644.74 504727.63 638650.92 504751.64 638682.13 504858.61 638727.18 504984.96 638791.08 505145.31 638817.04 505211.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>żeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>26718</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5063-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5063-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Kanał Królewski</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>163698</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">45.0</ot:szerokosc>
+			<ot:nazwa>Kanał Żerański</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c654b519-a3b3-4e25-91c3-d8d5a37b6174-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638447.42 508678.05 638415.81 508788.94 638383.98 508896.06 638336.45 509052.09 638335.31 509055.82 638319.31 509111.08 638317.40 509117.42 638316.31 509121.44 638312.10 509136.02 638308.38 509148.86 638285.18 509225.58 638266.45 509287.50 638255.08 509329.34 638254.13 509335.40 638253.16 509341.43</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>żeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>26718</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5066-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5066-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Kanał Królewski</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>163698</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">45.0</ot:szerokosc>
+			<ot:nazwa>Kanał Żerański</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ff42ef47-656f-4c45-ae14-65b3ecf925f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638817.04 505211.11 638858.63 505328.12 638876.93 505406.67 638878.54 505413.86 638879.69 505418.29 638881.00 505424.45 638887.01 505450.33 638897.22 505507.14 638924.86 505660.88 638928.54 505688.78 638942.57 505833.27 638946.73 506027.23 638946.00 506091.14 638943.59 506134.57 638941.78 506178.00 638934.06 506262.32 638932.89 506280.36 638932.38 506284.58 638925.06 506344.78 638915.20 506399.42 638905.84 506457.39 638901.83 506473.27 638896.47 506500.85 638879.85 506579.07 638844.40 506692.73 638727.03 507082.11 638721.85 507101.45 638708.64 507165.61 638687.11 507339.12 638686.12 507350.96 638685.78 507364.83 638681.58 507596.90 638678.05 507692.73 638672.26 507795.95 638660.04 507896.80 638633.43 508035.63 638630.21 508049.69 638512.83 508446.47 638477.02 508569.81 638454.37 508653.67 638447.42 508678.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>żeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>26718</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5064-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5064-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cec01e24-f190-4de8-b5ad-e1845ebe37ac-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>629784.26 515325.85 629817.18 515346.84 629865.93 515438.74 629866.11 515484.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5073-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5073-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Nazwa oboczna: Kanał Buchnik</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>41140</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:nazwa>Kanał Henrykowski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-16f4ecab-fbf5-43f7-886d-53c50f63e3df-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630937.51 501691.40 630932.49 501738.98 630928.15 501768.72 630920.94 501796.79 630909.09 501822.80 630885.92 501862.19 630861.17 501891.73 630822.29 501937.35 630773.94 501991.57 630771.65 501994.30 630769.42 501996.95 630745.20 502024.45 630705.65 502069.36 630680.74 502097.64 630646.80 502128.98 630622.22 502147.59 630600.88 502160.24 630582.68 502168.65 630495.35 502202.96 630485.90 502206.67 630417.28 502233.63 630401.07 502237.57 630384.43 502236.26 630372.75 502228.34 630346.54 502209.49 630332.83 502200.61</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2598</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5075-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5075-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">6.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-962feae7-fb54-4c65-8215-bd2562574acf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630621.88 511273.41 630604.70 511278.62 630592.31 511284.98 630580.76 511292.86 630574.31 511296.74 630562.50 511303.72 630546.42 511313.43 630490.71 511342.82 630433.60 511368.55 630371.28 511398.18 630362.96 511405.06 630358.47 511411.42 630354.71 511420.83 630349.57 511432.26 630348.20 511438.70 630348.16 511449.43 630348.20 511456.08 630349.25 511468.37 630349.64 511492.89 630348.05 511508.38 630344.87 511515.47 630327.33 511533.95 630317.12 511540.75 630312.58 511543.88 630298.70 511553.47 630285.64 511564.18 630260.19 511584.60 630252.19 511593.01 630246.87 511598.59 630239.84 511608.63 630237.55 511615.45 630219.74 511675.58 630196.39 511751.44 630190.07 511773.80 630189.44 511776.78 630186.05 511792.89 630184.71 511807.28 630184.71 511814.83 630184.71 511827.70 630186.87 511867.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5065-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5065-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Kanał Królewski</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>163698</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:nazwa>Kanał Żerański</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2ff7db13-8916-4275-a53b-fc423db40243-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638253.16 509341.43 638236.62 509781.14 638223.98 509947.88 638053.86 510872.07 638018.95 511061.74 637949.40 511439.58 637839.34 512037.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>żeglowny</ot:statusEksploatacji>
+			<ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+			<ot:identyfikatorMPHP>26718</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5079-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5079-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Nazwa oboczna: Kanał Buchnik</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>41140</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:nazwa>Kanał Henrykowski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-98caed38-8c94-4547-bade-8efb06173d8a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631455.78 500866.25 631397.90 500923.92</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2598</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-506E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-506E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>62319</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">0.5</ot:szerokosc>
+			<ot:nazwa>Kanał Królewski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ab57429e-060c-43f7-8a5e-321549b04e81-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>639782.80 501649.01 639781.21 501662.54 639779.45 501669.39 639768.22 501692.66 639758.92 501706.24 639755.39 501715.16 639754.65 501730.22 639753.72 501742.49 639756.13 501751.60 639767.29 501778.74 639782.72 501816.66 639791.08 501834.51 639798.22 501852.17 639805.96 501871.32 639808.19 501887.86 639809.49 501898.09 639812.09 501905.15 639813.58 501915.56 639813.02 501927.74 639812.46 501939.92 639812.09 501961.30 639813.02 501988.25 639810.23 502005.17 639808.00 502016.87 639807.07 502021.72 639806.33 502031.57 639809.12 502045.14 639813.21 502057.04 639818.23 502070.24 639820.64 502078.79 639830.31 502106.86 639856.52 502186.98 639860.98 502206.13 639861.17 502219.52 639858.01 502234.58 639849.83 502268.78 639843.14 502294.81 639839.60 502302.43 639835.70 502308.94 639829.19 502314.51 639822.32 502317.86 639812.65 502325.67 639802.61 502340.73 639800.56 502350.21 639799.37 502367.03</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5068-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5068-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c4746f50-c895-460d-a892-7c7d3f7a5a2a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637746.51 500976.18 637745.15 500997.01 637745.00 501001.39 637745.46 501006.21 637748.98 501026.52 637750.59 501035.78 637753.77 501053.98 637754.44 501057.81 637759.72 501088.07 637760.64 501092.01 637761.81 501096.05 637780.09 501141.76 637781.93 501148.15 637783.39 501154.67 637790.48 501215.18 637793.92 501244.53 637795.23 501251.71 637811.73 501290.08 637822.33 501319.25 637836.16 501359.76 637838.14 501365.77 637839.48 501371.41 637840.52 501376.64 637855.61 501452.34 637855.76 501453.10 637859.74 501474.69 637860.17 501483.78 637859.89 501491.78 637854.77 501528.56 637855.85 501578.43 637855.86 501578.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-507C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-507C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cbcbbb43-78c3-4fb4-86c4-cc94ba120ab9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>635513.26 505493.75 635510.97 505499.25 635493.57 505529.81 635489.71 505536.52 635455.03 505596.16 635428.53 505639.84 635409.21 505649.69 635382.41 505663.35 635261.80 505731.32 635240.03 505744.67 635210.55 505767.47 635158.14 505809.92 635125.04 505835.09 635101.22 505852.30 635058.69 505882.61 635051.72 505891.17 635044.84 505899.02 635038.85 505905.33 635032.62 505908.89 635006.54 505916.34 634973.72 505927.05 634902.58 505943.48 634895.65 505946.43 634891.81 505946.79 634887.70 505943.06 634884.68 505940.48 634884.04 505936.10 634880.47 505931.62 634872.89 505925.86 634845.01 505913.74 634835.86 505909.77 634824.94 505904.14 634821.78 505899.12 634819.91 505897.01 634817.21 505896.88 634812.09 505898.25 634807.02 505899.66 634795.10 505906.11 634782.28 505908.38 634759.16 505908.26 634743.22 505909.95 634691.51 505915.44 634683.11 505917.19 634674.11 505923.65 634668.47 505933.65 634658.91 505950.63 634654.28 505958.54 634646.78 505971.27 634641.49 505995.78 634641.12 505996.73 634634.21 506014.32 634631.60 506020.96 634629.05 506027.44 634625.84 506035.62 634608.36 506066.94 634594.05 506083.88 634589.26 506095.73 634588.36 506103.55 634590.37 506127.89 634590.13 506157.15 634588.00 506168.16 634585.64 506172.42 634581.28 506177.11 634564.94 506184.23 634554.01 506189.00 634545.04 506195.39 634536.93 506204.81 634530.62 506212.13 634521.07 506214.83 634510.75 506218.03 634505.06 506221.76 634484.74 506235.75 634480.02 506239.39 634475.31 506243.03 634463.63 506251.18 634453.64 506258.67 634448.42 506261.76 634433.69 506268.97 634422.38 506274.50 634391.57 506289.41 634374.59 506299.09 634357.76 506308.47 634326.93 506324.64 634297.41 506340.13 634268.41 506354.42 634222.59 506379.23 634187.35 506397.09 634157.90 506413.52 634122.23 506430.41 634099.88 506440.94 634092.62 506444.08 634067.13 506456.43 634034.88 506471.27 634005.13 506484.71 633982.73 506494.37 633972.98 506499.09 633942.65 506514.51 633918.62 506525.85 633871.40 506546.83 633847.90 506558.58 633843.96 506560.16 633840.29 506562.05 633823.98 506569.79 633804.84 506578.60 633796.85 506582.23 633783.58 506589.02 633775.44 506592.12 633766.83 506593.28 633757.13 506594.74 633735.00 506595.39 633709.16 506596.74 633695.29 506597.70 633679.61 506598.62 633669.59 506599.22 633646.57 506600.77 633632.82 506601.70 633598.32 506604.67 633553.84 506608.32 633545.64 506608.99 633541.21 506609.34 633519.76 506611.04 633515.20 506611.24 633509.92 506611.42 633501.76 506611.69 633498.73 506611.89 633476.70 506612.94 633464.30 506613.46 633459.55 506614.07 633413.64 506620.01 633396.29 506620.54 633380.17 506619.55 633371.15 506619.46 633359.91 506619.73 633353.94 506620.43 633347.08 506625.78 633343.47 506631.39 633342.53 506634.20 633333.59 506648.75 633327.18 506656.23 633321.44 506661.57 633313.76 506668.91 633309.89 506673.65 633308.29 506676.19 633293.73 506691.41 633288.12 506696.35 633269.30 506716.79 633258.35 506727.87 633250.87 506737.35 633239.94 506749.39 633230.29 506760.45 633218.73 506773.56 633214.32 506781.84 633211.49 506787.57 633211.11 506793.57 633211.43 506799.73 633213.07 506806.75 633213.59 506813.41 633223.90 506843.42 633228.68 506855.83 633235.78 506870.67 633235.58 506879.31 633235.46 506884.37 633233.97 506893.14 633230.57 506900.48 633222.04 506906.95 633217.66 506910.28 633212.44 506913.82 633206.15 506918.07 633203.96 506919.55 633199.22 506922.75 633197.37 506924.00 633184.95 506933.48 633178.71 506943.23 633177.79 506946.01 633177.52 506950.64 633177.65 506954.61 633179.11 506959.63 633180.96 506964.13 633183.87 506969.95 633188.63 506976.43 633191.68 506981.20 633197.64 506992.50 633207.15 507034.73 633215.10 507072.05 633221.54 507105.27 633226.05 507146.08 633226.99 507159.22 633227.11 507171.98 633222.58 507186.84 633213.95 507206.65 633200.06 507238.25 633183.90 507281.16 633171.35 507324.96 633159.92 507361.44 633154.93 507378.24 633154.06 507386.48 633158.53 507398.80 633169.99 507415.42 633173.04 507420.16 633186.39 507444.86 633205.76 507475.63 633212.60 507488.93 633215.79 507497.32 633214.93 507506.66 633207.47 507519.95 633200.87 507528.45 633185.22 507549.63 633177.21 507560.79 633170.02 507569.84 633158.55 507584.80 633139.27 507602.45 633122.93 507618.30 633106.84 507641.67 633084.88 507677.37 633070.19 507698.73 633063.91 507709.82 633052.84 507730.78 633050.64 507741.22 633050.22 507749.45 633050.70 507759.69 633052.13 507767.77 633054.36 507774.52 633057.23 507792.90 633057.63 507797.29 633058.41 507805.87 633058.27 507818.49 633057.96 507824.89 633058.29 507831.64 633058.18 507838.15 633058.45 507841.59 633056.29 507873.30 633055.25 507888.43 633056.27 507900.14 633053.95 507918.29 633052.10 507936.05 633051.25 507953.26 633050.07 507974.89 633050.05 507981.89 633049.98 507986.05 633047.32 508021.46 633045.69 508053.96 633046.27 508071.40 633045.77 508080.84 633044.66 508087.82 633037.02 508105.42 633032.90 508117.29 633028.94 508132.38 633027.71 508138.24 633026.99 508141.65 633026.40 508144.10 633022.66 508159.42 633022.07 508169.66 633023.45 508183.97 633031.72 508221.64 633041.17 508262.81 633045.50 508285.45 633049.24 508309.28 633053.35 508331.62 633055.73 508344.53 633057.69 508356.92 633058.47 508367.75 633058.08 508378.98 633056.31 508393.55 633045.28 508447.90 633042.23 508459.45 633038.59 508471.33 633030.78 508491.59 633019.33 508513.13 633009.38 508527.59 632999.46 508539.80 632977.12 508563.81 632969.85 508566.59 632959.04 508569.38 632939.93 508570.91 632932.57 508571.37 632923.93 508573.12 632903.58 508579.70 632889.05 508583.94 632863.05 508590.91 632839.99 508598.33 632824.44 508602.08 632816.65 508604.35 632809.57 508606.88 632800.03 508610.09 632794.86 508612.39 632789.33 508613.98 632770.74 508618.73 632761.39 508620.34 632746.02 508621.78 632730.04 508624.88 632706.26 508629.73 632662.28 508638.42 632634.14 508644.06 632619.42 508646.47 632610.01 508648.02 632588.15 508652.31 632586.09 508652.73 632566.72 508656.71 632546.94 508661.26 632540.01 508662.68 632505.53 508667.95 632492.90 508669.90 632483.52 508671.28 632462.94 508676.08 632440.31 508680.31 632410.35 508687.17 632369.19 508694.71 632347.24 508697.34 632335.78 508697.87 632322.16 508700.74 632286.67 508708.98 632284.07 508709.66 632279.10 508710.96 632247.66 508719.18 632239.84 508720.70 632235.89 508721.47 632223.31 508724.09 632206.85 508726.95 632195.36 508729.22 632187.18 508730.84 632172.66 508733.36 632161.95 508735.20 632158.37 508736.13 632154.74 508737.26 632149.11 508740.31 632118.24 508761.51 632108.18 508767.28 632096.80 508773.05 632094.17 508774.31 632081.95 508780.15 632056.99 508794.81 632040.42 508808.03 632033.11 508817.98 632030.31 508823.27 632025.03 508835.48 632021.99 508844.96 632018.96 508856.63 632012.51 508872.65 632008.07 508883.61 632002.09 508894.19 631992.45 508907.33 631980.47 508918.60 631970.67 508928.17 631963.31 508936.63 631961.81 508938.35 631958.85 508943.02 631954.20 508949.90 631950.53 508956.12 631947.51 508963.18 631946.25 508970.56 631945.55 508979.07 631947.13 508986.69 631948.83 508994.43 631948.99 509001.85 631948.05 509009.40 631947.67 509012.41 631945.86 509024.61 631940.19 509044.95 631938.05 509056.55 631930.49 509104.08 631928.22 509117.57 631925.87 509133.12 631921.87 509151.76 631901.47 509255.45 631901.18 509256.93 631896.79 509289.63 631890.92 509321.63 631882.67 509353.39 631880.70 509360.58 631879.03 509367.17 631876.47 509375.25 631874.29 509384.10 631870.89 509389.62 631868.36 509393.09 631865.65 509396.33 631860.62 509401.91 631857.24 509406.45 631856.28 509409.97 631856.07 509413.20 631854.14 509417.34 631813.23 509497.44 631803.45 509513.97 631796.43 509520.09 631792.17 509523.43 631788.02 509526.17 631781.28 509531.06 631772.22 509539.75 631765.99 509544.28 631759.95 509547.11 631753.81 509547.77 631751.98 509547.77 631748.05 509547.77 631740.40 509548.24 631736.53 509549.61 631732.52 509552.02 631727.90 509555.80 631721.15 509560.61 631715.77 509563.92 631710.29 509566.61 631698.35 509570.81 631689.00 509574.82 631668.83 509585.50 631667.54 509586.18 631658.08 509590.93 631650.40 509594.79 631626.79 509606.65 631624.02 509608.04 631618.28 509610.93 631584.95 509629.73 631583.79 509630.38 631552.36 509645.50 631551.22 509646.05 631524.98 509655.77 631514.74 509660.73 631492.98 509672.29 631459.47 509690.57 631452.30 509695.71 631447.68 509699.59 631434.99 509711.92 631431.07 509716.93 631428.95 509723.28 631428.82 509730.83 631430.99 509810.00 631431.05 509812.37 631434.12 509924.60 631436.19 509988.77 631436.55 510004.07 631437.27 510018.74 631437.90 510042.06 631438.34 510065.14 631440.10 510110.46 631440.18 510123.60 631439.70 510155.64 631438.89 510170.40 631435.57 510203.52 631432.18 510231.80 631428.11 510252.71 631421.50 510284.30 631419.96 510293.50 631418.04 510304.98 631412.51 510330.65 631411.78 510334.03 631405.57 510364.65 631400.46 510406.22 631397.75 510416.89 631392.98 510445.40 631382.61 510492.61 631377.39 510512.72 631370.95 510544.58 631368.81 510559.03 631366.27 510580.03 631363.65 510596.49 631361.57 510607.69 631359.08 510620.69 631354.52 510635.76 631346.39 510657.38 631329.81 510688.33 631323.74 510697.82 631308.22 510717.73 631289.19 510743.06 631283.83 510751.93 631272.33 510773.33 631259.62 510796.79 631254.25 510805.24 631251.18 510809.46 631244.65 510815.61 631234.45 510822.42 631216.94 510830.23 631203.89 510834.85 631197.82 510836.79 631169.26 510845.02 631012.68 510885.57 630916.69 510910.43 630911.57 510912.52 630906.99 510915.70 630902.62 510919.52 630899.11 510923.69 630896.60 510927.68 630893.88 510932.62 630889.56 510943.48 630888.25 510949.36 630888.12 510953.80 630888.27 510958.47 630887.70 510962.97 630888.59 510973.97 630890.00 510985.24 630892.69 510994.71 630906.29 511036.99 630913.83 511062.97 630918.62 511081.12 630920.04 511096.07 630920.28 511106.74 630918.15 511113.86 630912.93 511124.49 630907.57 511132.34 630890.63 511145.91 630870.92 511162.77 630858.87 511173.38</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5061-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5061-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">2.5</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e3472476-6694-41f7-af1a-8fe89b401cee-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638065.66 502078.11 638062.73 502082.78 638060.65 502084.59 638058.03 502086.86 638047.58 502095.45 638033.30 502103.03 638020.80 502105.41 637987.92 502107.05 637967.39 502108.54 637959.06 502110.32 637954.00 502113.00 637938.60 502124.09 637881.69 502162.92 637849.26 502176.16 637834.82 502181.22 637818.76 502182.26 637798.81 502181.35 637735.76 502180.50 637672.27 502168.34 637664.37 502170.18 637639.21 502178.35 637622.30 502185.43 637616.45 502187.86 637611.21 502191.16 637606.97 502195.55 637602.62 502201.14 637594.45 502228.48 637590.00 502236.82 637585.35 502242.24 637579.76 502246.69 637568.28 502254.39 637557.27 502261.14 637549.13 502266.32 637542.90 502271.41 637515.60 502300.24 637511.82 502303.53 637507.17 502304.88 637502.73 502304.45 637498.07 502303.50 637492.89 502302.08 637483.22 502299.66 637475.82 502299.01 637466.47 502299.50 637461.65 502301.24 637400.15 502339.76 637381.46 502351.73 637378.67 502353.80 637376.28 502355.78 637372.39 502360.14 637366.00 502367.59 637360.66 502374.59 637355.51 502382.04 637342.97 502401.19 637283.90 502471.54 637257.54 502502.93 637224.01 502541.78 637164.41 502590.42 637130.96 502617.71 637095.23 502646.01 637083.87 502655.14 637033.40 502695.74 637024.26 502703.96 637006.53 502721.44 637001.84 502725.48 636997.63 502728.48 636992.21 502732.04 636985.05 502737.18 636949.96 502768.65 636947.09 502771.24 636944.55 502773.67 636942.52 502776.75 636940.04 502781.42 636936.85 502791.13 636933.35 502801.49 636929.05 502810.80 636878.66 502904.14 636857.76 502942.68 636849.83 502958.01 636845.14 502966.94 636837.32 502985.05 636835.11 503000.48 636834.16 503015.69 636834.73 503023.41 636836.18 503031.01 636845.74 503063.76 636850.72 503076.22 636858.00 503089.11 636868.84 503102.23 636924.84 503136.42 636951.30 503152.24 636955.92 503156.04 636958.83 503160.73 636973.48 503199.74 636970.48 503317.65 636967.91 503373.06 636964.82 503390.67 636962.03 503396.62 636949.03 503425.69 636927.51 503468.71 636922.45 503481.80 636917.65 503492.37 636912.30 503498.15 636893.12 503510.44 636886.40 503514.86 636883.63 503516.68 636857.42 503533.85 636850.16 503538.61 636803.33 503572.94 636751.16 503613.43 636743.39 503619.46 636716.44 503640.82 636680.00 503669.70 636667.49 503679.05 636657.47 503686.54 636643.27 503697.15 636640.58 503705.09 636640.83 503720.31 636642.82 503794.62 636643.30 503812.50 636641.47 503842.80 636643.58 503870.80 636643.44 503923.91 636643.42 503932.22 636643.33 503966.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5071-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5071-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>Kanał Królewski</ot:informacjaDodatkowa>
+			<ot:identyfikatorPRNG>163698</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">42.0</ot:szerokosc>
+			<ot:nazwa>Kanał Żerański</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-40be662b-0692-41df-8984-fee03c30a782-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638409.31 501496.73 638400.91 501596.92 638381.04 501821.96 638378.56 501861.10 638377.40 501927.43 638378.27 501987.23 638380.42 502039.63 638397.63 502240.68 638412.34 502407.42 638413.63 502422.07 638424.71 502547.56 638448.12 502803.05 638456.14 502899.77 638460.68 502954.57 638467.37 503012.47 638474.90 503078.72 638475.67 503087.76</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>żeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>26718</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5072-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5072-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>62319</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:nazwa>Kanał Królewski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b7c0adf6-ab2f-4f9a-a19b-57c8ce9e6dd3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>639799.37 502367.03 639799.08 502379.21 639798.33 502384.97 639795.73 502390.92 639791.83 502398.36 639775.44 502427.53 639773.40 502431.15 639769.89 502437.40 639760.04 502464.91 639755.76 502485.18 639750.74 502517.34 639749.44 502535.00 639749.07 502543.36 639749.45 502559.91 639750.37 502600.25 639751.49 502661.41 639750.18 502717.56 639749.44 502725.36 639745.17 502736.52 639730.11 502749.53 639716.35 502764.22 639706.31 502775.19 639697.44 502782.64 639689.37 502787.74 639681.03 502791.55 639673.41 502794.71 639663.92 502797.31 639654.07 502799.35 639643.48 502801.21 639628.60 502803.44 639617.19 502806.18 639614.43 502808.94 639613.32 502812.22 639613.17 502816.08 639614.47 502824.82 639621.43 502868.19 639625.63 502894.35 639628.79 502916.47 639629.16 502926.51 639628.32 502931.50 639626.11 502935.55 639620.96 502939.45 639545.97 502948.10 639542.09 502949.37 639539.23 502951.15 639537.51 502954.69 639534.80 502959.12 639533.79 502964.82 639532.95 502970.55 639525.42 502978.22 639516.56 502984.23 639507.63 503002.99 639454.27 503138.85 639447.24 503157.34 639441.26 503189.62 639441.24 503247.76 639442.64 503335.55 639437.83 503485.85 639436.31 503529.68 639436.48 503537.54 639436.98 503548.56 639438.15 503560.93 639446.26 503633.91 639450.00 503658.67 639457.17 503704.02 639461.75 503725.34 639464.83 503740.06 639467.15 503751.13 639469.93 503772.08 639475.67 503797.04 639478.88 503813.52 639480.40 503830.18 639482.73 503851.29 639485.88 503869.83 639485.65 503886.86 639485.80 503889.39 639486.65 503903.58 639488.15 503922.79 639487.51 503932.10 639486.66 503938.99 639482.58 503952.46 639480.87 503958.00 639480.54 503960.70 639479.16 503964.37 639476.87 503970.33 639475.65 503975.14 639475.81 503979.55 639477.52 503981.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.330.BDOT10k_38E00D14-5070-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D14-5070-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>167445</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:nazwa>Kanał Bródnowski Dolny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-dd945031-871f-412d-9356-cc2575f9641d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>636643.33 503966.84 636666.11 504011.94 636670.82 504021.27 636695.73 504067.98 636702.38 504080.44 636726.93 504096.80 636838.98 504171.48 636851.12 504182.25 636882.68 504233.88 636924.31 504298.94 636932.24 504374.00 636932.39 504384.64 636929.73 504403.82 636927.49 504413.66 636925.51 504422.38 636922.21 504437.28 636917.51 504463.53 636916.36 504466.83 636914.75 504469.63 636888.91 504514.32 636882.92 504524.47 636871.40 504547.87 636865.81 504559.48 636861.15 504570.23 636854.79 504583.71 636851.55 504587.88 636846.56 504591.94 636840.69 504596.80 636823.73 504608.47 636779.19 504641.53 636761.97 504652.63 636744.46 504662.80 636736.63 504668.32 636689.45 504701.59 636687.50 504702.96 636628.57 504743.31 636567.84 504780.11 636554.73 504788.05 636519.85 504805.04 636482.92 504814.43 636477.21 504815.88 636443.24 504825.17 636371.78 504822.93 636320.69 504821.32 636313.88 504821.11 636125.59 504817.10 636049.69 504814.48 636040.38 504814.75 636030.18 504816.53 636021.76 504818.80 635998.81 504827.57 635991.74 504831.66 635948.85 504864.03 635936.98 504874.61 635927.81 504884.99 635923.94 504890.43 635922.89 504894.38 635921.04 504903.03 635920.77 504909.35 635919.88 504914.37 635916.72 504923.68 635915.62 504929.60 635915.54 504934.48 635916.31 504938.00 635917.76 504942.58 635917.99 504949.22 635917.22 504954.33 635914.40 504958.00 635907.75 504964.03 635895.92 504973.57 635886.34 504980.57 635876.60 504988.00 635870.19 504994.80 635862.94 505003.88 635846.14 505027.86 635842.02 505033.35 635827.89 505048.70 635823.92 505055.42 635821.63 505062.82 635819.79 505069.61 635806.29 505102.54 635790.91 505137.79 635786.71 505149.79 635749.29 505238.14 635732.57 505276.81 635717.77 505311.06 635714.13 505315.67 635710.16 505319.40 635672.37 505336.55 635625.78 505381.31 635579.19 505423.43 635574.09 505428.77 635570.28 505433.22 635566.36 505438.07 635562.27 505442.20 635558.39 505445.68 635554.22 505448.07 635549.04 505450.54 635543.30 505453.21 635538.28 505456.65 635533.83 505460.45 635528.57 505467.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>2674</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

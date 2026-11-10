@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUZA_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B86-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B86-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zabytkowe założenie pałacowo-parkowe, nr rej. 210/59 z 20.11.1959</ot:informacjaDodatkowa>
+			<ot:rodzaj>zespół zabudowy historycznej</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-75268cb5-7f1c-4620-862e-ae6d1c615daf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630164.53 502785.64 630158.03 502799.59 630201.35 502828.19 630216.39 502813.52 630219.67 502806.83 630223.92 502796.72 630227.71 502789.58 630258.33 502763.29 630258.29 502751.68 630259.39 502738.53 630262.82 502730.90 630265.58 502724.82 630273.46 502718.87 630278.47 502716.81 630283.16 502715.76 630289.46 502715.09 630289.08 502706.95 630300.01 502703.95 630310.28 502697.23 630303.56 502686.96 630300.91 502683.01 630294.28 502687.41 630288.02 502678.81 630281.44 502668.97 630272.91 502674.42 630218.29 502710.10 630220.85 502712.90 630233.72 502727.78 630197.27 502749.04 630180.17 502759.72 630176.02 502765.48 630171.04 502774.15 630164.53 502785.64</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B87-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B87-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zespół zabudowy historycznej</ot:rodzaj>
+			<ot:nazwa>Zespól Pałacowo-Parkowy w Górze </ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-17ab39af-2265-4b8b-876a-1ddafa3a68a7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>620672.95 511037.73 620669.40 511041.59 620676.42 511068.28 620717.68 511064.20 620744.97 511061.40 620740.88 510982.27 620740.32 510970.84 620748.63 510970.62 620753.48 510970.49 620752.82 510958.10 620747.95 510958.37 620741.02 510949.72 620708.47 510949.83 620708.33 510982.70 620708.68 511012.09 620676.72 511013.49 620676.91 511019.26 620677.07 511026.41 620675.47 511032.43 620672.95 511037.73</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B83-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B83-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Grupa Forteczna Janówek - zabytek</ot:informacjaDodatkowa>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort nr XVII A</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d09afd63-9c3b-430b-b986-e6f7c1936ff4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>621293.84 508561.48 621271.57 508736.70 621328.17 508738.10 621484.18 508742.07 621510.47 508716.42 621507.90 508711.67 621506.49 508707.80 621506.02 508703.70 621508.25 508680.36 621515.32 508626.35 621526.33 508577.67 621538.94 508510.68 621541.83 508492.28 621542.41 508484.31 621542.88 508475.19 621542.90 508450.18 621542.90 508409.19 621542.20 508401.04 621541.26 508394.24 621537.16 508375.36 621533.41 508362.93 621528.48 508350.27 621431.90 508327.41 621327.33 508303.29 621288.20 508291.77 621295.01 508472.52 621293.84 508561.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B84-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B84-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Twierdza Modlin - Fort XVIIb Janówek - Kazamata</ot:informacjaDodatkowa>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort nr XVII</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c94ff335-bba5-4c95-9f71-6d54a0061675-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>621641.92 509199.41 621637.62 509199.20 621636.24 509199.66 621627.61 509202.57 621591.68 509223.65 621588.70 509226.13 621586.30 509229.76 621579.45 509249.05 621577.97 509257.38 621577.97 509262.97 621579.24 509268.55 621580.93 509274.88 621581.76 509288.78 621581.10 509307.25 621580.39 509325.89 621579.23 509330.43 621577.02 509334.96 621566.16 509352.55 621564.58 509357.19 621563.95 509361.72 621565.11 509366.36 621567.11 509369.84 621573.23 509376.38 621591.56 509394.18 621597.26 509397.87 621602.95 509399.88 621623.91 509403.94 621642.25 509410.79 621646.90 509392.93 621652.68 509370.72 621688.54 509232.97 621681.53 509228.27 621677.15 509225.34 621669.13 509219.85 621655.45 509208.33 621645.63 509200.78 621641.92 509199.41</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B81-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B81-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Twierdza Zegrze</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-20a06d35-4e30-41e2-8697-1e1561a3a89e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639158.63 513022.05 639156.34 513014.54 639154.17 513015.85 639147.92 512993.59 639144.05 512985.41 639136.24 512968.89 639123.12 512941.14 639114.55 512922.30 639109.34 512910.86 639102.03 512895.52 639098.60 512888.31 639087.09 512862.73 639081.34 512846.08 639080.44 512824.14 639073.32 512814.30 639029.82 512816.91 639015.51 512817.85 638996.10 512817.64 638978.18 512819.98 638940.05 512809.40 638924.59 512818.39 638918.29 512814.97 638912.85 512804.79 638883.48 512803.47 638851.55 512802.92 638856.30 512827.73 638860.12 512867.37 638851.62 512876.41 638836.22 512892.58 638837.71 512907.19 638828.86 512925.05 638891.37 512979.32 638872.97 513002.27 638876.95 513008.11 638869.97 513023.20 638880.55 513033.48 638892.43 513042.47 638906.22 513045.36 638946.73 513046.41 638955.63 513046.64 639016.51 513048.87 639070.82 513050.41 639110.33 513051.85 639151.16 513051.09 639173.69 513040.47 639163.02 513027.58 639158.63 513022.05</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B85-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B85-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Twierdza Modlin - ruiny fortu XVII Janówek, nr rej. 41 z 23.01.2003</ot:informacjaDodatkowa>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort nr XVII b Janówek</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a8a440ef-d8f9-4877-8e8c-b2a650905aa3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>622017.58 508979.26 622014.26 509003.73 622021.12 509003.94 622052.63 508978.30 622070.98 508962.49 622103.48 508937.05 622144.32 508897.36 622169.75 508867.30 622180.40 508874.03 622182.41 508868.34 622185.47 508862.96 622191.16 508855.90 622221.75 508824.69 622230.19 508816.81 622234.88 508812.43 622248.43 508799.99 622254.23 508793.23 622256.86 508788.70 622258.44 508783.63 622259.08 508778.04 622260.13 508756.94 622260.06 508737.40 622259.63 508732.65 622258.05 508727.91 622255.63 508724.11 622251.52 508720.52 622241.65 508713.00 622209.00 508688.80 622183.74 508668.96 622127.94 508614.96 622093.56 508583.95 622083.33 508576.78 622076.95 508572.56 622069.84 508568.84 622044.46 508558.42 622044.17 508579.98 622043.96 508586.20 622043.32 508642.17 622043.89 508648.35 622055.44 508701.24 622054.88 508777.17 622053.34 508794.74 622052.66 508825.73 622037.93 508923.92 622037.79 508927.21 622035.21 508944.52 622034.51 508955.79 622031.15 508980.39 622017.58 508979.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B80-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B80-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zabytek, nr rej. A-1368 z 27.01.2017</ot:informacjaDodatkowa>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort Dębe Twierdzy Zegrze</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d9114b4a-7a8b-441c-9a39-f0f93fe0d809-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630623.03 516309.34 630627.69 516326.83 630649.24 516399.31 630672.75 516457.37 630681.53 516485.86 630705.79 516516.85 630724.43 516509.59 630744.04 516511.86 630810.06 516514.25 630923.22 516523.67 630940.66 516541.11 630943.03 516545.65 630945.73 516545.10 630948.23 516544.02 630950.50 516542.45 630953.64 516538.77 630960.58 516524.30 630967.40 516511.09 630975.63 516497.44 630983.98 516483.46 630995.35 516463.75 631006.94 516442.95 631038.47 516378.27 631050.06 516355.41 631051.36 516351.03 631051.36 516346.85 631050.00 516342.58 631048.60 516340.32 631047.04 516338.23 631044.96 516336.93 631042.36 516335.89 631036.95 516334.56 631029.10 516334.94 631021.41 516336.62 631013.23 516339.43 631006.51 516342.41 631003.15 516343.50 631000.48 516344.22 630994.27 516344.25 630986.54 516343.80 630976.30 516342.58 630962.96 516342.20 630955.73 516342.20 630947.55 516342.76 630940.04 516343.52 630930.95 516344.21 630911.61 516346.26 630906.19 516346.20 630900.17 516346.15 630894.62 516344.98 630888.48 516343.01 630884.14 516344.35 630879.66 516348.24 630877.86 516353.62 630859.19 516350.22 630851.12 516351.78 630835.78 516353.87 630829.02 516355.43 630822.14 516357.16 630770.47 516350.39 630738.51 516341.40 630719.77 516333.28 630676.33 516313.34 630642.53 516308.90 630623.03 516309.34</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B7E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B7E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zabytek, nr rej. 1462-A z 11.01.1991</ot:informacjaDodatkowa>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort Beniaminów</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5d5c0725-beb7-4825-a9dc-a8d4f00a277a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>642641.26 510390.86 642654.84 510380.79 642713.31 510331.21 642743.40 510307.24 642748.29 510303.11 642747.07 510292.76 642745.75 510283.73 642740.58 510254.57 642714.40 510106.06 642710.20 510078.70 642705.77 510049.78 642703.74 510036.54 642700.76 510017.10 642699.45 510008.54 642677.84 510002.94 642638.70 509992.80 642591.73 509981.35 642533.10 509965.36 642504.82 509958.10 642494.77 509956.16 642489.33 509968.92 642488.54 509988.90 642487.20 510018.62 642487.58 510039.93 642487.96 510065.18 642490.46 510076.28 642491.58 510092.48 642496.35 510111.74 642483.23 510178.85 642482.06 510186.44 642464.51 510244.29 642461.89 510254.17 642447.29 510293.70 642425.79 510352.99 642419.43 510376.31 642423.62 510376.47 642440.36 510380.42 642483.25 510386.53 642621.38 510406.71 642631.85 510398.85 642641.26 510390.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B7F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B7F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort Zegrze</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0f65efe5-18d4-4c79-a54d-7b4a53078431-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637635.72 513175.71 637640.07 513159.88 637691.81 513166.24 637728.88 513091.78 637744.26 513061.12 637742.37 513059.86 637742.32 513059.83 637732.23 513053.12 637720.41 513046.65 637708.60 513040.18 637701.18 513036.79 637692.41 513032.78 637677.01 513026.80 637675.36 513026.16 637655.28 513019.79 637636.33 513015.77 637622.52 513013.86 637611.23 513012.65 637579.29 513009.28 637552.68 513007.03 637525.58 513005.21 637499.71 513002.01 637498.16 513001.71 637478.41 512997.94 637476.92 512997.52 637457.23 512991.98 637456.26 512991.71 637433.27 512982.68 637432.24 512982.27 637418.26 512975.31 637418.04 512975.20 637411.90 512972.15 637410.63 512971.33 637392.57 512959.73 637390.87 512958.64 637384.02 512953.37 637370.61 512943.07 637355.96 512929.32 637353.91 512927.40 637337.27 512908.61 637336.58 512907.84 637326.77 512895.48 637325.93 512894.43 637314.01 512875.55 637312.93 512873.45 637303.45 512855.13 637295.40 512836.95 637294.41 512834.46 637294.38 512834.39 637285.53 512812.11 637282.71 512804.30 637280.34 512797.74 637252.93 512803.16 637249.13 512801.98 637231.81 512803.64 637080.38 512827.39 636962.33 512846.86 636957.11 512847.82 636954.27 512849.72 636952.84 512851.85 636953.32 512856.36 636959.01 512866.82 637019.52 512984.71 637078.84 513103.79 637085.72 513115.91 637089.99 513120.18 637097.35 513126.60 637104.23 513130.40 637159.28 513150.82 637223.97 513176.00 637309.86 513208.96 637422.01 513252.19 637556.23 513304.63 637572.84 513310.33 637577.11 513310.33 637581.14 513309.38 637586.84 513298.69 637590.40 513288.48 637590.63 513284.44 637589.68 513281.83 637559.79 513271.38 637508.06 513252.38 637510.19 513245.73 637514.94 513240.26 637526.80 513233.38 637604.87 513199.70 637625.51 513189.25 637630.97 513183.79 637635.72 513175.71</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1B82-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1B82-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>twierdza lub forteca</ot:rodzaj>
+			<ot:nazwa>Fort XVIII Twierdzy Miodlin</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-da4d64b8-5159-42b8-b7ad-d006dc6d5c57-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>620355.17 506478.37 620308.65 506468.78 620236.54 506474.39 620176.04 506492.82 620121.46 506542.27 620114.92 506561.62 620107.01 506590.66 620090.07 506629.61 620083.50 506658.27 620085.97 506681.36 620084.44 506694.48 620083.39 506703.51 620088.78 506710.38 620098.47 506717.21 620109.49 506723.27 620115.91 506739.03 620118.18 506752.38 620121.12 506761.21 620165.63 506798.28 620189.55 506804.41 620219.77 506809.92 620241.29 506803.85 620287.32 506793.20 620311.11 506788.17 620331.74 506783.17 620341.88 506777.42 620343.05 506776.76 620361.64 506762.92 620380.47 506746.26 620428.73 506704.09 620428.23 506685.31 620426.62 506608.96 620424.27 506601.19 620421.85 506593.19 620421.09 506588.12 620420.33 506583.06 620430.63 506562.33 620419.32 506544.52 620400.97 506522.14 620387.11 506507.21 620369.02 506490.25 620359.41 506484.31 620355.17 506478.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

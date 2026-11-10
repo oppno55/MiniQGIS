@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUIT_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FC-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FC-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-77ae6508-a303-4242-a312-dc627acba3d1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631858.56 506539.80 631850.69 506526.80 631864.49 506519.28 631860.24 506511.76 631858.54 506508.88 631837.91 506521.09 631817.27 506533.30 631818.70 506535.69 631835.64 506564.82 631847.67 506557.98 631842.79 506548.98 631858.56 506539.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FE-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FE-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1328a841-ca46-4808-bdbf-087e00967c05-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630708.41 504549.03 630726.57 504592.62 630788.01 504565.94 630776.18 504537.16 630785.66 504533.70 630778.73 504520.26 630708.41 504549.03</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0F9-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0F9-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c7fe3116-0f41-4f57-848b-6a2c274327b9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639763.53 517950.61 639784.72 517953.14 639789.79 517918.91 639790.87 517910.71 639741.92 517901.85 639740.36 517910.88 639727.87 517908.82 639726.69 517914.72 639738.27 517918.18 639735.50 517932.94 639722.63 517932.87 639722.04 517938.61 639741.41 517942.57 639740.16 517951.51 639762.71 517956.03 639763.53 517950.61</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FB-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FB-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-aab5f6a1-3a8f-4d0d-a77c-639ff7940f4f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632114.58 513676.39 632115.67 513641.71 632093.18 513640.61 632049.86 513640.03 632048.97 513675.72 632091.27 513676.62 632114.58 513676.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FA-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FA-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4ce0a71a-4692-43fa-8e41-d733076280cd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632504.43 513576.60 632497.55 513556.73 632483.15 513519.28 632440.30 513533.00 632453.53 513570.89 632460.58 513590.61 632504.43 513576.60</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FD-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FD-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bfe03149-8e4d-47b9-bfa7-92cf39fbbd43-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638164.65 502453.00 638149.69 502444.09 638122.95 502443.41 638112.07 502449.95 638112.28 502496.68 638164.54 502497.63 638164.65 502453.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0F8-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0F8-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-475bfea3-bded-4cd4-8d83-a655afc6fc4f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630431.80 515189.70 630432.82 515243.90 630496.84 515243.90 630499.21 515241.63 630499.01 515238.75 630498.67 515233.70 630504.50 515229.13 630507.52 515222.15 630506.60 515188.62 630469.33 515189.16 630431.80 515189.70</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="id_38E00D12-B0FF-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-B0FF-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_421_1</ot:kodKarto10k>
+			<ot:rodzaj>zespół transformatorów</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5e1ef330-86b9-401a-b7a0-a14c9e940f8b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633547.76 507614.52 633505.65 507585.04 633491.67 507575.34 633466.64 507612.81 633463.61 507617.21 633478.12 507626.14 633523.12 507653.87 633547.76 507614.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

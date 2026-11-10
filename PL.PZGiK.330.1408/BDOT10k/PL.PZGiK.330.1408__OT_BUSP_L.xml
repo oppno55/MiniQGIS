@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUSP_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B57B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B57B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-04698dc0-7a7e-4093-9f76-0ccef32f7337-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630420.53 505794.68 630416.25 505801.42 630394.92 505840.51 630379.21 505869.34 630375.82 505876.04 630373.94 505882.11 630372.87 505890.58 630373.41 505897.81 630375.73 505906.38 630379.03 505913.17 630383.67 505919.24 630389.21 505924.14 630395.81 505927.98 630403.75 505930.66 630410.27 505931.55 630418.03 505931.02 630424.91 505929.23 630431.69 505926.20 630437.67 505921.47 630443.11 505915.84 630449.99 505903.97 630470.69 505865.50 630485.78 505837.93 630489.17 505831.14 630490.69 505826.05 630491.31 505819.63 630490.60 505811.95 630488.99 505804.90 630487.12 505800.44 630482.83 505793.75 630478.19 505788.57 630472.66 505784.46 630464.98 505780.80 630458.47 505779.02 630450.43 505778.66 630442.58 505779.73 630437.67 505781.25 630431.96 505783.93 630427.23 505787.14 630423.30 505790.98 630420.53 505794.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B571-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B571-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fdc910a0-5711-4547-9c0e-d64c31fb8c3b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>632160.38 507183.61 632221.96 507162.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_741d6bfc-0979-4cb8-8d35-a9bc719177ce_2023-12-31T120000">
+			<ot:lokalnyId>741d6bfc-0979-4cb8-8d35-a9bc719177ce</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8492d5f8-d3d8-4f40-90ca-727833126d37-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630633.21 514915.42 630628.35 514915.47 630622.98 514916.10 630617.31 514917.45 630611.66 514919.55 630607.70 514921.54 630603.86 514923.95 630599.98 514926.95 630596.40 514930.34 630594.28 514935.19 630593.13 514940.81 630594.55 515048.57 630595.78 515054.71 630598.31 515059.37 630602.11 515062.85 630607.52 515066.70 630612.74 515069.48 630617.51 515071.35 630622.40 515072.69 630628.30 515073.60 630633.25 515073.79 630639.18 515073.35 630645.82 515071.95 630653.08 515069.23 630658.65 515066.15 630663.88 515062.25 630669.22 515055.04 630671.33 515047.03 630671.01 514941.83 630669.31 514935.57 630666.63 514930.92 630662.06 514926.56 630656.60 514922.62 630651.55 514919.88 630646.59 514917.90 630639.72 514916.14 630633.21 514915.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B579-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B579-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d7349bfd-0181-4116-afc4-6c40cc88715e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630651.71 504956.05 630657.10 504945.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B57D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B57D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0162efe2-5f3d-4716-8c25-041d52d07b0f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630904.05 504891.63 630976.40 504870.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_5e274f0f-a777-4196-bd1e-8f9abdf77d32_2023-12-31T120000">
+			<ot:lokalnyId>5e274f0f-a777-4196-bd1e-8f9abdf77d32</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4b65eb46-c787-480a-9188-79eefc126369-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>639982.93 505122.36 639974.71 505055.88</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B576-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B576-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-81ae6ffe-8b39-479f-95fe-ebd65d4f34f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>633105.94 507297.22 633115.20 507292.94 633122.73 507286.19 633128.31 507280.07 633132.21 507272.11 633137.04 507258.66 633154.77 507191.83 633156.61 507183.46 633157.73 507174.16 633155.30 507166.32 633150.58 507159.10 633146.91 507154.95 633141.71 507150.41 633134.75 507146.67 633128.40 507143.92 633122.74 507142.79 633113.92 507142.62 633105.89 507144.45 633096.82 507148.53 633088.85 507154.01 633084.54 507158.05 633081.52 507167.46 633060.33 507244.98 633058.63 507253.22 633058.03 507261.86 633060.00 507270.97 633063.25 507279.34 633067.37 507285.49 633071.13 507290.04 633078.82 507295.53 633086.58 507298.43 633093.87 507299.45 633099.12 507299.06 633105.94 507297.22</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_3c2ddd74-e34f-4711-bf10-be1e640feb11_2023-12-31T120000">
+			<ot:lokalnyId>3c2ddd74-e34f-4711-bf10-be1e640feb11</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d9cc146f-a8c7-41cf-9179-f6a361bd9a6d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634885.46 517483.65 634831.21 517564.21</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B573-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B573-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>tor dla quadów</ot:informacjaDodatkowa>
+			<ot:rodzaj>tor sportowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1db16ab3-0eda-41c8-9a9b-28b3c592d8d9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634387.64 501186.05 634392.29 501187.37 634395.36 501190.65 634396.74 501194.57 634397.16 501202.61 634398.11 501221.55 634398.75 501227.05 634400.02 501230.75 634400.12 501233.71 634399.46 501236.05 634397.66 501238.12 634395.34 501239.49 634391.79 501240.42 634388.91 501240.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B575-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B575-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>tor dla quadów</ot:informacjaDodatkowa>
+			<ot:rodzaj>tor sportowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-35b2bea1-ff96-40d8-acc9-8585aeb431fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634369.54 501233.90 634367.47 501232.05 634366.53 501230.17 634366.06 501227.47 634366.69 501223.98 634368.12 501219.64 634369.65 501216.57 634371.03 501213.51 634371.61 501211.23 634371.61 501208.75 634371.14 501207.00 634370.18 501204.88 634368.86 501202.98 634367.27 501199.91 634366.80 501196.90 634366.64 501194.36 634367.17 501192.14 634368.97 501188.22 634370.87 501186.16 634373.89 501184.62 634378.81 501184.41 634382.88 501184.89 634387.64 501186.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B578-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B578-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-182b9b98-43e9-40bb-8d82-7c25539ef37f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630628.37 505001.03 630651.71 504956.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B57C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B57C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0d029ce1-b1b2-4fbc-a4b1-153b7c874403-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631745.56 504425.71 631677.91 504478.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B56D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B56D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-26e29cd9-d267-4719-ab95-8298ad5c725c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>638463.84 504897.36 638539.78 504887.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_b7a80961-49dc-4166-a2c6-070119be8d67_2023-12-31T120000">
+			<ot:lokalnyId>b7a80961-49dc-4166-a2c6-070119be8d67</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b8c0df14-ade7-4eb9-b3b7-e0b4b1199d7d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634831.21 517564.21 634818.61 517582.19</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_8920b9ea-7f87-4800-8288-9e5eef89ba9b_2023-12-31T120000">
+			<ot:lokalnyId>8920b9ea-7f87-4800-8288-9e5eef89ba9b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-17c167a9-eb50-45f0-ac73-db19e59456f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>640159.39 510848.69 640162.64 510847.03 640163.97 510844.87 640165.26 510841.53 640165.74 510837.35 640164.41 510833.04 640161.70 510830.06 640157.39 510829.06 640061.57 510838.30 640017.24 510842.57 639954.95 510848.46 639950.58 510849.49 639948.30 510851.10 639946.88 510854.23 639946.31 510858.64 639947.33 510863.75 639950.13 510866.18 639953.52 510867.89 639957.13 510868.10 640009.57 510863.19 640090.02 510855.51 640159.39 510848.69</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B574-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B574-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>tor dla quadów</ot:informacjaDodatkowa>
+			<ot:rodzaj>tor sportowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e70788c6-9ebd-4166-8e5d-81519c00ad93-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634388.91 501240.13 634386.79 501237.57 634385.89 501235.56 634385.37 501232.55 634385.26 501225.41 634385.84 501219.11 634387.11 501211.87 634388.17 501206.15 634388.59 501201.92 634388.33 501198.91 634387.43 501196.95 634386.11 501195.31 634383.78 501194.78 634381.82 501194.89 634380.02 501195.84 634378.54 501197.74 634377.80 501199.91 634377.80 501203.03 634378.49 501209.59 634379.02 501215.04 634379.71 501217.74 634380.50 501220.28 634380.71 501223.24 634380.08 501226.47 634378.81 501229.11 634377.80 501230.33 634375.74 501231.97 634372.74 501233.50 634369.54 501233.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B57E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B57E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fb1f5ef0-4c7f-4a30-b114-16e53d78fa8d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630913.27 504894.40 630934.00 504922.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_4d5c44a0-bce5-45ff-93ce-d7cfd65e10c4_2023-12-31T120000">
+			<ot:lokalnyId>4d5c44a0-bce5-45ff-93ce-d7cfd65e10c4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e0b50ce7-a4d3-4a0e-82af-790860dfc368-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634889.21 517477.82 634885.46 517483.65</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_67b81504-0538-421b-a0a6-f927969ef02e_2023-12-31T120000">
+			<ot:lokalnyId>67b81504-0538-421b-a0a6-f927969ef02e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-330e7072-fb3a-4a98-a6c6-1d5fbfe20b89-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>639523.77 510459.00 639552.65 510479.80 639591.89 510508.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_E7B8E430-832B-406A-8650-A2BBEAB036E8_2023-12-31T120000">
+			<ot:lokalnyId>E7B8E430-832B-406A-8650-A2BBEAB036E8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6efcdfce-2d99-4e0f-9aeb-125fc470e402-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637624.39 512677.72 637578.01 512701.15 637538.27 512720.87 637508.59 512734.69 637503.12 512738.69 637501.07 512745.48 637502.24 512751.44 637510.05 512767.60 637521.38 512789.37 637525.14 512797.33 637529.68 512800.21 637533.48 512801.33 637538.71 512800.40 637558.97 512790.25 637600.42 512770.48 637634.83 512753.14 637643.77 512749.48 637648.80 512750.80 637652.51 512753.19 637654.80 512756.17 637661.05 512770.38 637662.76 512777.07 637661.98 512781.61 637660.07 512784.00 637656.90 512786.98 637649.72 512790.35 637614.48 512805.14 637554.23 512831.70 637525.48 512844.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_e27ceac1-255d-4927-b763-b0ec0105dae6_2023-12-31T120000">
+			<ot:lokalnyId>e27ceac1-255d-4927-b763-b0ec0105dae6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d41c8d5f-f6f6-4746-a614-2c513ebcf1eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>627338.19 510047.61 627334.35 510048.16 627330.81 510049.37 627327.38 510051.36 627324.73 510053.64 627308.34 510096.76 627309.11 510099.94 627310.60 510103.33 627312.68 510106.36 627315.22 510108.92 627317.94 510110.85 627321.17 510112.37 627324.82 510113.34 627328.49 510113.60 627332.36 510113.14 627335.87 510112.03 627339.49 510110.04 627342.30 510107.67 627358.77 510064.30 627357.83 510060.73 627356.35 510057.56 627354.44 510054.82 627352.01 510052.36 627349.36 510050.46 627346.48 510049.03 627342.42 510047.88 627338.19 510047.61</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B57A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B57A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a4b5e48b-6050-4a16-95b0-5110905d93f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630651.71 504956.05 630655.62 504953.21 630659.95 504951.73 630663.89 504951.84 630668.40 504953.10 630671.88 504955.32 630674.11 504958.35 630675.71 504962.69 630675.94 504966.00 630674.45 504970.91 630670.23 504980.04 630655.47 505008.03 630652.88 505012.42 630649.54 505015.38 630646.14 505017.17 630642.07 505017.67 630638.11 505017.05 630634.40 505015.32 630631.87 505012.91 630629.46 505009.39 630628.35 505004.88 630628.37 505001.03</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_f2861875-f297-4e44-b9c4-f6d639509710_2023-12-31T120000">
+			<ot:lokalnyId>f2861875-f297-4e44-b9c4-f6d639509710</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7f9f008-7bee-414a-b902-1a5b3a28d7d3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634831.21 517564.21 634831.17 517567.14 634831.69 517568.41 634833.16 517570.56 634839.75 517575.56 634869.02 517594.88 634869.55 517595.23 634872.37 517595.76 634875.02 517594.88 634876.95 517593.29 634926.99 517518.41 634929.11 517514.71 634929.11 517512.77 634928.23 517510.84 634925.76 517507.66 634889.69 517484.15 634887.91 517483.53 634885.46 517483.65</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B577-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B577-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7fbe3c74-fd39-491e-8f40-6be20e335697-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630619.76 505017.62 630628.37 505001.03</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_38E00D12-B572-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D12-B572-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>tor dla quadów</ot:informacjaDodatkowa>
+			<ot:rodzaj>tor sportowy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-bc9280f0-4d1e-4ae3-9720-da628f1adbe9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>634369.54 501233.90 634372.25 501235.55 634374.93 501235.99 634377.75 501235.95 634380.42 501236.03 634383.33 501237.16 634385.71 501239.07 634388.91 501240.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_22387b62-1902-11ee-9e99-001a7dda7111_2023-12-31T120000">
+			<ot:lokalnyId>22387b62-1902-11ee-9e99-001a7dda7111</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-832f75f6-68e2-4791-9c0e-8e718105e758-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>633819.62 510883.52 633920.90 510846.22 633928.52 510847.33 633935.82 510851.77 633939.00 510857.17 633940.75 510863.84 633940.90 510870.35 633937.41 510876.70 633933.44 510880.66 633880.26 510900.19 633873.59 510900.35 633867.88 510898.44 633864.55 510896.54 633862.01 510893.84 633859.62 510889.24 633858.67 510884.32 633858.83 510878.92 633861.53 510872.09 633865.06 510866.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="PL.PZGiK.330.BDOT10k_91c2835d-ad81-4241-b2e5-ca4c6b38924d_2023-12-31T120000">
+			<ot:lokalnyId>91c2835d-ad81-4241-b2e5-ca4c6b38924d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_339</ot:kodKarto10k>
+			<ot:rodzaj>bieżnia</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d8bf07b9-386e-46d2-8b4e-5edc3b3e4228-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>640327.15 518857.21 640331.13 518769.46</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

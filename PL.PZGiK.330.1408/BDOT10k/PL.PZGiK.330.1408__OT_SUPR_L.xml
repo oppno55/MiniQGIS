@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SUPR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505E-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_440</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-edf809bf-6dde-4391-9b8b-82da56f97bb1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637931.36 502307.14 637931.48 502292.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>gazowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505A-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-18046418-a1fb-4762-9496-cbe6f836dc35-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630573.18 515533.03 630573.25 515497.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505C-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3d2a73d2-b5ac-4ae9-a68a-fa61b64bb1bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>630581.32 515534.84 630583.17 515535.25 630583.23 515537.24 630583.47 515544.84 630584.14 515565.89 630584.04 515566.79 630582.55 515579.70 630579.79 515602.36 630579.45 515610.14 630578.87 515648.92 630577.60 515689.20 630574.88 515697.20</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-504E-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-504E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-42923338-2e2b-437c-b8d1-3151b55a4428-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637145.89 512400.96 637176.67 512479.91 637250.76 512675.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5056-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5056-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_437</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c2bde503-ca17-46be-8430-6e8366d9f44c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>626558.72 514929.31 626558.34 514918.61 626558.25 514916.19 626557.88 514905.34 626557.26 514895.02 626556.77 514886.91 626554.22 514850.77 626551.96 514807.67 626550.54 514780.70 626549.14 514773.24 626544.87 514762.78 626538.35 514753.78 626529.01 514746.02 626521.70 514741.41 626515.62 514738.82 626506.85 514736.68 626496.28 514736.12 626487.05 514735.90 626478.73 514733.98 626469.51 514730.38 626463.10 514726.34 626456.68 514721.16 626450.05 514711.94 626446.34 514704.29 626444.42 514699.23 626442.74 514688.09 626442.96 514680.22 626445.45 514669.43 626447.08 514665.59 626452.64 514655.38 626458.74 514648.65 626465.16 514643.68 626471.58 514639.85 626481.11 514636.95 626490.32 514635.81 626496.64 514635.19 626502.95 514633.74 626509.68 514630.74 626515.43 514627.58 626520.58 514623.70 626524.94 514619.45 626529.26 514614.22 626531.73 514609.87 626535.14 514603.26 626540.20 514589.69 626549.33 514565.13 626557.28 514543.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>naftowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505F-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-25a8e068-ca80-4a78-bd14-b019385a1673-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631365.58 507875.84 631324.09 507896.58 631322.10 507893.92 631318.12 507895.98 631319.13 507898.98 631163.66 507975.32 631161.68 507972.90 631157.80 507974.58 631158.66 507977.69 631089.37 508011.96 631087.51 508009.42 631083.84 508011.48 631084.61 508014.28 631065.92 508023.35 631137.09 508158.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_4de07530-8622-40d5-a8af-e85d70d704f3">
+			<ot:lokalnyId>4de07530-8622-40d5-a8af-e85d70d704f3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_440</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-830e5847-38f6-4b0b-af04-6ed5f6ea62d4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637936.50 502266.46 637936.38 502245.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>gazowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-504D-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-504D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2be1731b-a0c0-486d-95a2-06fe7a01ac1b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631538.91 507796.35 631541.03 507796.78 631544.00 507803.44 631601.79 507775.10 631600.04 507771.21 631602.43 507769.97 631604.61 507773.72 631645.91 507753.13 631661.53 507785.60 631656.92 507787.94 631658.53 507791.08 631663.12 507788.93 631680.35 507823.69</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505D-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5bf5aeb9-0359-4918-87d5-1b6467a91a7a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631407.94 507999.01 631397.52 507978.33 631396.66 507976.10 631398.94 507974.95 631411.54 507969.75 631410.79 507967.69 631394.52 507934.27 631394.56 507932.00 631390.34 507923.70 631388.59 507922.54 631365.58 507875.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5055-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5055-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_440</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-44045338-b9ab-4b73-845c-f0f20a30f5e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637921.96 502321.40 637931.28 502321.41 637931.36 502307.14</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>gazowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5059-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5059-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ba14bae2-03fd-4422-a12f-316fef83abd6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631534.67 507680.12 631493.80 507700.47 631511.25 507735.09 631518.64 507732.12 631525.16 507746.40 631518.43 507750.01 631524.01 507761.84 631539.54 507792.72 631538.14 507794.55 631538.91 507796.35</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5057-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5057-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3e0e5219-1869-48f9-87fb-9fa208b592a6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631534.67 507680.12 631540.62 507690.46</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_2e8d62f1-fad9-4a5c-bf9d-4b2e5cdddb8f">
+			<ot:lokalnyId>2e8d62f1-fad9-4a5c-bf9d-4b2e5cdddb8f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_440</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-dd1caffc-88fb-4365-9abf-996ccecdfbdf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637938.12 502234.32 637938.50 502221.77 637937.68 502206.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>gazowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-504F-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-504F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b4199666-4fa4-465c-9b56-b508fcb921b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631538.91 507796.35 631495.26 507817.79 631493.26 507813.43 631419.40 507849.53 631417.92 507846.27 631412.71 507848.84 631414.07 507852.30 631365.58 507875.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5054-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5054-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-04600c7b-5cd2-4696-8f3d-a559f291cbd7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>632470.16 513336.79 632464.78 513340.46 632459.41 513344.11 632427.30 513365.99 632465.55 513414.65 632473.88 513409.47 632474.78 513410.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5051-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5051-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e6b97bb3-f34a-4af2-9adc-479e5dc99c7c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631229.66 507085.86 631229.85 507091.22 631246.20 507131.59 631272.23 507126.00 631328.29 507231.48 631341.78 507256.11 631348.35 507253.11 631355.23 507266.56 631349.18 507270.28 631384.35 507335.98 631390.56 507333.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-5050-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-5050-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-318a3599-92e4-4139-91c8-cff9bed0ae8d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>631491.44 507622.50 631493.31 507625.65 631505.30 507619.83 631518.62 507647.18 631513.52 507650.11 631519.76 507662.94 631525.04 507660.46 631534.67 507680.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_38E00D14-505B-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D14-505B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_440</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ca8a1ba4-5c5f-4c09-9e5a-04ff8caf3cff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>637931.36 502307.14 637935.98 502307.24 637936.27 502306.78 637936.50 502266.46</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>gazowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

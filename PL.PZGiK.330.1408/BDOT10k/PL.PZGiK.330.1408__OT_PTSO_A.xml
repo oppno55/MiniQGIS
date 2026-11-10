@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_PTSO_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_PTSO_A gml:id="PL.PZGiK.330.BDOT10k_99c84a66-2c72-4079-ab06-232e8b6b63fc_2023-12-31T120000">
+			<ot:lokalnyId>99c84a66-2c72-4079-ab06-232e8b6b63fc</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>składowisko szkodliwych odpadów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_430</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a8b83a21-9aea-4c99-aec6-732240c6282f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>629178.99 504298.57 629223.59 504275.73 629181.20 504192.05 629127.55 504186.54 629123.44 504185.92 629128.58 504195.76 629155.24 504250.52 629173.20 504286.91 629178.99 504298.57</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>odpady przemysłowe</ot:rodzaj>
+		</ot:OT_PTSO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_PTSO_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-8996-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-8996-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_430</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b1e4c4fd-0caa-4e56-b72e-8581c276570a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630316.66 517078.03 630325.70 516982.27 630227.98 516970.54 630235.14 516938.48 630230.03 516937.68 630229.49 516937.60 630227.72 516937.32 630219.33 516936.02 630205.95 516946.55 630154.10 516987.35 630145.87 516977.36 630132.25 516989.40 630117.41 517003.19 630106.10 517011.85 630095.69 517020.88 630086.85 517031.31 630079.08 517044.93 630066.18 517076.57 630062.47 517089.12 630058.76 517104.16 630057.35 517116.18 630188.55 517151.04 630228.19 517068.25 630316.66 517078.03</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>odpady przemysłowe</ot:rodzaj>
+		</ot:OT_PTSO_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUOS_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_cebbf992-4295-11ee-bb8c-480fcf3c9bd7_2023-12-31T120000">
+			<ot:lokalnyId>cebbf992-4295-11ee-bb8c-480fcf3c9bd7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Zespół Szkolno-Przedszkolny Akademia Dobrej Edukacji w Jabłonnie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6fa004f0-e97a-41d9-85cc-efdde51836d8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>629077.64 504778.61 629060.56 504773.96 629058.67 504780.21 629052.34 504801.07 629046.67 504818.99 629038.39 504847.12 629069.79 504857.15 629084.90 504861.79 629106.87 504819.69 629114.95 504798.15 629117.46 504791.47 629101.90 504785.94 629077.64 504778.61</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_cebbf994-4295-11ee-9d78-480fcf3c9bd7_2023-12-31T120000">
+			<ot:lokalnyId>cebbf994-4295-11ee-9d78-480fcf3c9bd7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Niepubliczne Przedszkole i Żłobek Zatoka Przygód</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-edeafaae-d358-4cdc-a141-974c03fe4e10-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632047.52 509430.41 632046.15 509427.42 632039.61 509413.17 632029.80 509391.80 632025.65 509382.75 631975.01 509408.07 631979.94 509418.62 631984.06 509427.42 631991.87 509444.13 631992.57 509445.63 631995.91 509452.78 632012.41 509445.63 632047.52 509430.41</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_cebbf996-4295-11ee-be95-480fcf3c9bd7_2023-12-31T120000">
+			<ot:lokalnyId>cebbf996-4295-11ee-be95-480fcf3c9bd7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Społeczna Szkoła Podstawowa Z Oddziałami Dwujęzycznymi nr 35 im. Noblistów Polskich Społecznego Towarzystawa Oświatowego w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a0c2dfc5-dd21-4b17-8d53-996d17197604-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631347.62 507009.44 631349.38 506985.04 631348.11 506943.66 631342.36 506944.08 631296.90 506943.69 631298.17 507008.50 631347.62 507009.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_cebbf998-4295-11ee-9ee1-480fcf3c9bd7_2023-12-31T120000">
+			<ot:lokalnyId>cebbf998-4295-11ee-9ee1-480fcf3c9bd7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Niepubliczne Przedszkole i Żłobek Świat Malucha</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e1fca635-0d03-417d-8fbf-5df3c30322f7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634440.53 510598.11 634427.64 510602.54 634415.50 510606.83 634406.87 510609.97 634402.57 510612.12 634397.06 510616.32 634394.20 510620.05 634397.47 510623.32 634399.61 510627.88 634410.76 510662.96 634412.47 510667.98 634414.86 510674.98 634420.07 510690.26 634467.29 510672.95 634461.63 510657.12 634440.53 510598.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1990-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1990-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Gminne w Jabłonnie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f56ce79d-bc03-4295-8bc4-967be1846a4f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630757.74 502694.02 630741.38 502662.89 630717.38 502680.03 630737.85 502719.48 630796.01 502831.59 630808.73 502859.31 630809.84 502861.72 630838.49 502848.59 630824.36 502821.10 630816.86 502806.90 630808.75 502791.10 630802.46 502779.15 630784.15 502744.30 630783.58 502743.22 630771.03 502719.32 630764.41 502706.73 630763.30 502704.62 630757.74 502694.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1991-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1991-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie nr 10 im. Wandy Tomczyńskiej w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-070d9b9e-4958-4002-b259-b03666d4f2c1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631082.89 505435.02 631060.94 505450.94 631091.51 505493.97 631104.04 505511.61 631120.63 505500.64 631155.22 505476.87 631110.41 505415.07 631082.89 505435.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1992-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1992-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie nr 6 Tęczowa Szóstka w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-718fcff5-6335-4e4b-83fc-58607ab37c93-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631151.05 505246.13 631115.15 505271.79 631151.60 505322.11 631174.09 505353.16 631210.17 505327.02 631232.19 505293.92 631173.21 505259.54 631151.05 505246.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Kornela Makuszyńskiego, Przedszkole Samorządowe w Skrzeszewie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bf9a4c34-dc34-4ca9-bbbb-da77ecbd63b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628511.91 511277.38 628486.66 511277.07 628456.70 511277.98 628437.37 511278.28 628425.56 511278.47 628396.06 511279.34 628366.36 511279.77 628339.61 511280.81 628358.63 511475.87 628425.36 511474.95 628431.74 511474.83 628427.90 511428.84 628428.02 511424.25 628523.64 511414.04 628522.63 511402.28 628519.05 511360.52 628517.49 511342.31 628515.49 511319.00 628513.71 511298.32 628511.91 511277.38</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A0-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A0-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 2 im. Orła Białego w Chotomowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c86cdb9c-1320-4631-8824-42138af3cf30-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628156.92 506569.14 628159.82 506567.57 628178.17 506574.64 628187.59 506538.00 628173.94 506527.13 628157.02 506509.24 628139.27 506488.20 628127.89 506500.26 628110.48 506519.30 628086.97 506542.26 628084.66 506544.31 628105.28 506571.23 628116.36 506585.16 628119.73 506589.52 628147.85 506574.16 628156.92 506569.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A2-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A2-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Gminne Przedszkole i Żłobek w Chotomowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cc7a88d4-6523-4e66-aecc-d95b0e3b28e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>627689.79 506517.26 627671.48 506488.15 627641.60 506465.74 627636.12 506469.19 627615.60 506482.04 627604.85 506488.96 627597.25 506493.85 627580.76 506468.62 627567.04 506477.20 627587.64 506523.26 627619.63 506569.65 627644.30 506570.28 627650.68 506570.53 627658.53 506570.84 627676.45 506571.56 627701.60 506572.35 627721.44 506572.53 627724.09 506572.55 627707.46 506545.34 627689.79 506517.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_cebbf990-4295-11ee-8aa4-480fcf3c9bd7_2023-12-31T120000">
+			<ot:lokalnyId>cebbf990-4295-11ee-8aa4-480fcf3c9bd7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Gminne Przedszkole im. Akademii Małych Odkrywców w Zegrzu Południowym</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-625a17c3-6f46-4831-9c63-aac5fb355860-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636111.44 511974.36 636129.40 511992.10 636144.64 512007.15 636145.93 512008.42 636148.95 512011.40 636170.90 511988.62 636193.77 511964.31 636191.35 511962.24 636188.79 511960.05 636177.35 511952.17 636162.13 511943.37 636137.47 511929.10 636135.76 511932.08 636112.21 511973.02 636111.44 511974.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1984-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1984-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkolno-Przedszkolny w Woli Kiełpińskiej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-904d2ec2-0a4c-4976-88ff-2cb7b4df8267-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634967.51 517371.39 634962.41 517367.65 634934.75 517409.10 634916.71 517435.77 634903.54 517453.36 634899.39 517458.42 634887.04 517476.59 634816.21 517580.79 634796.76 517609.41 634850.31 517646.50 634879.52 517602.00 634922.39 517536.66 634937.77 517513.60 634951.46 517493.08 634970.42 517468.74 635003.77 517419.35 635014.08 517404.44 634967.51 517371.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Stanisława Moniuszki, Przedszkole Samorządowe nr 3</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-114fc17d-05fb-439e-b5e9-8a88690b1899-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632730.91 508409.76 632769.23 508390.17 632838.72 508353.20 632823.10 508321.19 632811.20 508296.89 632784.05 508241.44 632775.52 508223.94 632737.45 508243.61 632714.88 508255.39 632699.51 508264.04 632714.16 508291.35 632698.43 508298.90 632675.57 508309.88 632683.64 508326.84 632692.03 508344.29 632723.46 508409.63 632725.00 508412.83 632730.91 508409.76</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A6-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A6-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 1 im. Mikołaja Kopernika w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a9e2698d-4904-463e-be8c-5851c8348c57-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631762.39 504435.93 631749.53 504418.90 631731.31 504431.94 631723.95 504437.47 631711.45 504446.80 631698.93 504456.35 631690.28 504462.71 631686.72 504465.41 631677.15 504472.66 631673.84 504475.19 631683.33 504487.42 631635.51 504525.41 631630.33 504529.53 631644.49 504549.00 631659.30 504569.16 631662.57 504573.62 631666.61 504579.12 631674.31 504589.60 631681.50 504599.39 631689.00 504609.59 631690.30 504611.58 631695.10 504607.93 631699.22 504604.81 631709.42 504597.33 631711.94 504595.37 631726.70 504583.86 631742.20 504571.79 631745.35 504569.34 631770.44 504549.67 631780.30 504542.37 631801.25 504526.84 631803.20 504525.44 631820.62 504512.54 631817.29 504508.76 631804.13 504490.91 631798.96 504484.38 631781.19 504460.73 631779.39 504458.33 631777.63 504456.01 631762.39 504435.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Armii Krajowej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cbc83924-d71d-4d2c-b849-e041aaa6d3e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631079.04 502759.40 631090.07 502783.41 631097.00 502797.49 631099.96 502803.33 631103.50 502801.62 631108.17 502811.02 631109.83 502813.99 631106.36 502816.49 631105.87 502818.92 631114.52 502837.50 631118.10 502840.10 631119.64 502843.08 631121.75 502847.76 631134.08 502841.78 631148.03 502835.02 631160.52 502828.97 631173.96 502822.45 631186.64 502816.31 631200.52 502809.58 631214.40 502802.85 631193.65 502766.05 631165.69 502714.86 631147.52 502723.66 631149.37 502727.65 631117.97 502742.76 631102.11 502745.27 631079.27 502756.14 631079.04 502759.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Jerzego Szaniawskiego w Jadwisinie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-eb86720c-b93a-424e-bca5-48cf38670f04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638781.33 514352.15 638787.67 514349.20 638804.86 514349.54 638809.87 514348.00 638836.90 514333.93 638842.86 514332.66 638871.12 514383.42 638887.39 514412.64 638940.20 514384.21 638887.65 514258.81 638882.11 514258.72 638862.47 514268.52 638840.05 514277.77 638817.32 514286.66 638788.34 514297.53 638766.86 514307.66 638757.92 514311.88 638715.07 514332.10 638690.21 514343.83 638700.52 514365.38 638701.87 514368.20 638703.86 514378.84 638704.42 514382.68 638706.80 514387.55 638713.20 514397.44 638728.10 514422.92 638759.89 514372.25 638765.61 514365.60 638773.08 514356.90 638781.33 514352.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1996-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1996-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkół Salezjańskiech im. św. Jana Bosko, Szkoła Podstawowa nr 3 im. Janusza Kusocińskiego w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-93aa75bc-a6fd-4cf6-9a4e-e0a79f952ab0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630876.17 505417.09 630878.48 505420.61 630881.73 505425.56 630948.13 505517.34 631003.19 505477.86 631001.72 505475.87 631004.58 505473.83 631016.34 505465.42 631020.83 505462.21 631043.60 505445.92 630982.10 505361.23 630966.43 505372.33 630958.60 505378.18 630946.23 505387.58 630933.59 505370.12 630908.32 505387.72 630882.77 505405.60 630886.00 505410.07 630876.17 505417.09</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Niepubliczna Szkoła Podstawowa im. Jana Pawła II</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-afdef265-562a-41f6-9c81-daa7cf704fee-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630418.19 502975.28 630371.55 502905.49 630344.74 502922.76 630332.42 502930.70 630284.49 502961.56 630226.25 502999.06 630183.47 503026.07 630179.37 503029.12 630176.66 503031.14 630185.46 503039.46 630194.54 503047.86 630208.09 503060.40 630218.03 503069.33 630233.37 503082.28 630240.97 503089.60 630255.94 503103.89 630282.04 503127.46 630286.77 503123.20 630357.49 503078.40 630357.66 503065.15 630340.52 503041.90 630350.16 503035.35 630352.07 503034.12 630359.47 503029.38 630360.05 503016.55 630391.52 502993.43 630418.19 502975.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-198C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-198C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek naukowo-badawczy</ot:rodzaj>
+			<ot:nazwa>Ośrodek Aeorogii Instytutu Metorologii i Gospodarki Wodnej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1334b1a0-5cdc-4cfc-bae0-254f7f7bb7f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633354.04 506346.63 633365.56 506329.87 633381.69 506306.01 633390.74 506293.18 633392.86 506290.09 633398.63 506281.46 633403.85 506273.67 633405.88 506270.62 633431.26 506232.66 633427.08 506227.91 633395.01 506191.50 633383.36 506178.22 633370.57 506163.69 633352.44 506142.50 633322.54 506171.31 633300.36 506192.69 633280.70 506211.64 633260.02 506231.57 633239.25 506251.59 633218.49 506271.60 633208.35 506254.77 633180.31 506265.58 633146.41 506278.65 633142.18 506279.54 633109.00 506291.85 633087.70 506300.02 633077.18 506335.53 633055.09 506330.78 632978.29 506345.44 632980.35 506368.77 632975.40 506392.30 632968.38 506407.58 632963.76 506415.66 632955.95 506427.21 632920.51 506457.14 632919.47 506460.44 632918.00 506465.09 632953.07 506512.49 632983.22 506553.24 632999.51 506575.39 633001.88 506578.68 633011.69 506592.26 633025.88 506583.43 633045.59 506573.50 633088.16 506551.80 633113.29 506538.91 633136.34 506527.09 633155.01 506516.90 633160.24 506514.17 633170.09 506509.52 633184.50 506502.08 633200.73 506493.75 633212.71 506487.59 633222.14 506482.25 633242.37 506472.11 633284.22 506451.30 633286.77 506449.89 633295.39 506436.77 633306.05 506420.58 633306.22 506420.33 633326.50 506390.22 633325.52 506389.46 633330.97 506381.29 633347.58 506356.34 633354.04 506346.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1997-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1997-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>II Liceum Ogólnokształcące im. Króla Jana III Sobieskiego, Przedszkole Miejskie nr 9 Akademia Przygody</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-140f4752-a097-4f2a-94cb-99126e406239-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630700.18 504986.23 630661.63 504933.31 630657.30 504941.18 630604.85 505036.57 630564.72 505109.57 630576.53 505125.19 630591.24 505147.15 630603.12 505163.07 630614.33 505177.59 630621.62 505172.07 630643.98 505155.13 630649.05 505150.68 630652.38 505145.66 630656.19 505139.48 630663.98 505127.34 630668.84 505120.30 630672.27 505116.59 630677.48 505112.68 630698.00 505098.06 630694.96 505083.34 630744.49 505048.36 630734.76 505034.85 630728.98 505026.82 630700.18 504986.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1998-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1998-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Liceum Ogólnokształcące im. Marii Konopnickiej w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-61b27039-1580-4149-a9f6-1484fe31686d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631334.72 505158.69 631354.31 505131.20 631358.09 505125.80 631371.34 505106.87 631378.46 505095.85 631361.54 505080.17 631348.59 505067.21 631332.77 505049.34 631320.14 505037.64 631306.78 505025.43 631298.65 505017.21 631288.37 505022.40 631279.54 505022.61 631272.77 505020.30 631265.20 505015.34 631251.44 505023.00 631218.23 505046.02 631228.26 505060.17 631242.48 505080.84 631290.53 505146.01 631294.65 505142.99 631305.80 505134.28 631334.72 505158.69</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1999-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1999-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Powiatowy Zespół Szkół i Placówek Specjalnych</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-df7e2f2c-9251-4b69-aa06-5ca87e51d94a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630360.76 506288.43 630367.07 506335.64 630370.96 506364.76 630372.97 506367.14 630406.68 506360.42 630425.69 506361.32 630444.19 506364.86 630454.95 506346.61 630482.44 506296.80 630455.56 506283.05 630429.09 506269.58 630417.46 506263.81 630415.30 506268.89 630379.78 506281.61 630360.76 506288.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Wandy Chotomskiej w Józefowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f832fb54-0314-405e-99cb-e2f41052dbf7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636245.68 503529.00 636263.20 503502.75 636347.85 503420.40 636322.90 503398.89 636278.09 503366.29 636265.91 503359.81 636258.25 503367.97 636234.85 503403.07 636217.60 503428.93 636210.37 503439.78 636236.31 503455.60 636236.35 503467.32 636236.42 503487.00 636236.47 503499.65 636227.55 503514.35 636205.69 503511.71 636181.58 503496.64 636167.72 503530.53 636160.32 503559.19 636157.01 503572.52 636153.33 503586.17 636149.99 503599.03 636151.76 503609.63 636154.25 503619.59 636157.35 503628.43 636170.75 503641.25 636197.40 503602.56 636245.68 503529.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoa Podstawowa nr 2 im. Jana Pawła II</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9ce39a16-255a-4436-9785-286297f889e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633961.83 510797.08 633954.56 510792.41 633930.29 510801.28 633889.25 510816.29 633876.15 510821.08 633742.17 510870.06 633738.85 510875.59 633744.45 510890.27 633740.21 510891.86 633736.77 510893.08 633745.71 510920.76 633748.31 510928.64 633754.62 510947.74 633830.53 510921.11 633868.63 510907.91 633874.66 510905.72 633886.32 510901.49 633897.97 510897.26 633912.48 510891.89 633946.80 510880.68 633961.83 510797.08</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-198E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-198E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zabytek</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek naukowo-badawczy</ot:rodzaj>
+			<ot:nazwa>Instytut Fizjologii i Żywienia Zwierząt Polskiej Akademii Nauk</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-94d9ed47-4c62-4f37-903f-db998397a0bd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>629979.61 503132.83 630048.40 503081.73 629982.33 503026.14 629983.05 503025.23 629995.36 503009.58 629999.41 503004.32 630007.51 503011.33 630037.99 503038.66 630049.88 503054.94 630062.38 503041.21 630093.85 503005.98 630118.42 502978.47 630150.11 502943.00 630137.65 502932.18 630134.52 502929.46 630127.85 502923.72 630122.21 502918.97 630132.07 502906.43 630081.68 502868.74 630056.03 502903.45 630046.65 502917.93 630038.57 502912.52 630025.74 502926.50 629978.57 502977.93 629946.42 503019.97 629943.11 503024.30 629930.12 503017.46 629921.00 503024.04 629915.49 503028.19 629867.40 503064.45 629855.95 503073.03 629850.67 503076.64 629838.60 503084.90 629816.83 503100.47 629785.76 503116.88 629808.46 503146.71 629835.69 503128.02 629829.95 503119.51 629846.34 503108.22 629873.92 503147.22 629897.76 503130.32 629904.59 503140.11 629919.70 503161.77 629926.44 503171.42 629975.72 503135.58 629979.61 503132.83</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1994-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1994-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Józefa Wybickiego w Janówku, Przedszkole Samorządowe w Janówku Pierwszym</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4d896453-6e50-467c-8508-f65e8961dbf9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>620750.87 509811.45 620750.68 509814.40 620798.70 509817.26 620800.47 509788.20 620821.23 509789.87 620823.83 509790.04 620851.76 509791.92 620919.00 509796.29 620924.72 509737.96 620861.37 509732.92 620852.90 509732.24 620786.46 509729.24 620771.72 509728.08 620757.79 509727.43 620755.91 509750.74 620754.73 509764.78 620753.24 509781.39 620750.87 509811.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-199C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-199C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkolno-Przedszkolny nr 2 w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-16320273-f395-4621-9863-1f03b1e977dd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630482.44 506296.80 630489.66 506283.34 630494.45 506274.42 630491.71 506272.90 630519.01 506222.38 630518.22 506211.97 630512.48 506203.15 630496.10 506181.53 630492.68 506179.70 630489.10 506174.45 630487.66 506170.02 630475.81 506154.11 630472.87 506150.10 630428.61 506088.52 630417.11 506071.09 630415.47 506067.39 630398.45 506092.25 630360.89 506152.96 630352.53 506167.90 630345.72 506181.45 630346.57 506187.56 630349.01 506198.94 630360.76 506288.43 630379.78 506281.61 630415.30 506268.89 630417.46 506263.81 630429.09 506269.58 630455.56 506283.05 630482.44 506296.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1982-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1982-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Bronisława Tokaja w Nieporęcie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1d7d3b76-c185-4f16-98f1-89b8cbac9f7c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638542.10 508213.65 638553.96 508171.25 638576.22 508087.41 638585.37 508052.94 638584.15 508049.36 638563.40 508039.89 638527.50 508028.94 638508.96 508099.47 638494.09 508154.32 638483.12 508194.50 638470.60 508239.78 638474.72 508241.44 638462.52 508268.82 638465.23 508273.57 638519.54 508289.48 638542.10 508213.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1983-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1983-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Gminne Przedszkole w Nieporęcie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ff560975-db14-4838-81c1-7c1eceaa018c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638209.18 508496.15 638202.45 508483.14 638157.34 508466.81 638146.63 508463.25 638133.93 508498.56 638130.16 508509.06 638125.33 508507.23 638124.38 508509.98 638123.44 508512.72 638117.15 508530.97 638186.08 508555.78 638209.18 508496.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkolno-Przedszkolny w Wólce Radzymińskiej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-52cb0f95-be07-4c8b-b544-49f09ae1a27a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>642177.09 507437.51 642203.36 507412.12 642196.43 507404.89 642180.07 507420.51 642175.91 507416.33 642173.64 507418.54 642157.13 507401.54 642166.74 507391.85 642178.91 507379.58 642169.51 507371.31 642148.51 507352.85 642126.03 507333.08 642111.09 507354.30 642113.34 507356.27 642084.63 507383.97 642065.85 507402.09 642079.59 507414.31 642091.31 507424.72 642114.69 507445.50 642142.89 507470.57 642156.14 507457.76 642177.09 507437.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1981-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1981-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Bohaterów Bitwy Warszawskiej 1920 r., Liceum Ogólnokształcące im. Stanisława Lema</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-79f42902-c002-433a-8c0b-83cfb285cded-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638565.05 504956.39 638563.07 504936.74 638558.10 504937.58 638550.84 504879.22 638461.54 504891.19 638435.35 504894.70 638443.31 504919.74 638443.98 504921.86 638434.56 504923.06 638432.98 504923.26 638415.16 504925.54 638419.16 504953.57 638419.51 504956.05 638420.66 504963.70 638423.30 504984.05 638429.59 505022.64 638429.98 505025.49 638431.80 505038.90 638433.20 505047.53 638444.88 505046.05 638457.42 505044.22 638517.57 505035.92 638568.71 505028.89 638573.88 505028.25 638573.03 505022.14 638565.05 504956.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1988-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1988-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie nr 3 im. Koszałka Opałka w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ccde13e6-69ed-4694-bfd9-dabae84f8ad7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632426.45 506381.94 632454.89 506360.68 632477.54 506339.65 632479.39 506321.50 632455.92 506292.68 632450.47 506285.75 632405.89 506317.19 632402.81 506313.55 632390.22 506322.40 632383.88 506334.92 632387.48 506346.87 632411.74 506381.09 632416.61 506388.00 632426.45 506381.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1993-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1993-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie z Oddziałem Integracyjnym nr 7 im. Janusza Korczaka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-52e65ce7-7f62-41e2-aa7e-57e4de2312ed-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630390.00 504605.51 630391.44 504607.03 630433.61 504647.92 630435.54 504646.39 630435.71 504643.74 630433.78 504642.38 630439.22 504636.38 630453.32 504624.56 630477.75 504598.63 630476.35 504573.38 630469.44 504563.66 630408.07 504566.55 630408.07 504568.88 630416.99 504578.36 630405.02 504590.08 630400.28 504590.08 630397.21 504593.26 630397.23 504598.44 630390.00 504605.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1985-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1985-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek naukowo-badawczy</ot:rodzaj>
+			<ot:nazwa>Zakład Geotechniki, Filtracji i Jakości Betonów Budowli Hydrotechnicznych</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-49b96ff2-6cfa-4d78-be7b-166d74ccc7ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637936.08 514143.97 637988.34 514139.44 637965.02 514106.00 637897.50 513996.94 637859.06 514020.70 637865.22 514030.95 637857.57 514041.57 637850.38 514056.49 637845.26 514065.77 637847.62 514074.21 637884.52 514132.28 637894.18 514146.64 637936.08 514143.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1977-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1977-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Wojska Polskiego w Zegrzu</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ebb2f31a-3312-4beb-90f2-6f5f47a0d6e9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>637431.84 512766.88 637435.35 512727.16 637428.03 512705.64 637385.54 512720.96 637379.65 512706.95 637365.04 512712.56 637359.86 512717.45 637320.17 512732.68 637317.64 512735.02 637316.90 512739.90 637317.73 512743.76 637338.24 512803.03 637431.84 512766.88</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1975-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1975-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ośrodek naukowo-badawczy</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8d3c032a-3fae-4d6e-a409-9113c0eceba2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638655.92 515086.07 638823.85 515030.26 638832.39 515054.07 639032.13 514978.20 639029.57 514971.83 639019.93 514942.60 639010.83 514915.43 639009.83 514912.45 638992.95 514917.75 638992.16 514912.18 638989.95 514910.29 638986.49 514909.34 638976.72 514902.58 638966.57 514906.06 638945.05 514913.26 638936.81 514916.11 638915.48 514923.29 638908.27 514897.98 638939.41 514888.09 638923.25 514836.51 638892.23 514847.21 638893.74 514851.97 638904.38 514885.66 638827.72 514912.49 638829.46 514917.58 638843.46 514936.06 638848.36 514944.78 638795.49 514962.11 638762.62 514972.18 638716.22 514986.40 638718.90 514994.74 638722.80 515006.29 638687.95 515018.17 638650.50 515030.03 638651.93 515034.23 638651.76 515061.90 638649.50 515066.23 638655.92 515086.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-198B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-198B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie nr 11 w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-79f8d145-8be2-4025-b24d-a68b512fc62a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632476.99 506009.84 632502.29 505990.74 632510.88 505984.24 632513.52 505982.47 632514.14 505981.98 632514.06 505981.18 632512.95 505977.84 632512.44 505975.59 632512.49 505973.96 632501.80 505959.18 632498.22 505954.52 632492.84 505947.16 632486.90 505939.39 632471.97 505919.73 632469.74 505921.31 632465.27 505924.47 632432.43 505944.51 632462.12 505988.39 632472.12 506003.16 632476.99 506009.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A1-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A1-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 1 im. Tadeusza Kościuszki</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-eb4fae64-8174-4e93-9c6a-56198f964f61-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633760.97 511336.75 633754.13 511291.65 633728.76 511300.79 633708.13 511307.53 633685.69 511315.34 633701.29 511357.99 633702.82 511362.16 633676.83 511372.24 633682.32 511388.03 633687.29 511397.69 633700.12 511419.21 633700.33 511419.59 633701.76 511422.21 633725.49 511408.26 633765.18 511385.20 633763.52 511360.01 633760.97 511336.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Wojska Polskiego w Białobrzegach</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b02677e7-bf62-4826-8281-4686015311db-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639638.58 510456.60 639635.39 510437.91 639633.66 510427.70 639574.75 510438.54 639566.86 510400.25 639509.79 510410.28 639499.03 510412.14 639490.07 510413.74 639485.50 510414.54 639482.74 510418.35 639481.78 510422.88 639481.49 510428.55 639482.46 510433.55 639487.21 510437.84 639537.74 510472.60 639558.69 510487.56 639589.37 510512.24 639607.96 510530.93 639615.61 510519.10 639623.61 510507.57 639626.58 510503.29 639626.55 510496.12 639644.60 510492.06 639638.58 510456.60</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1976-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1976-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Gminne Przedszkole w Białobrzegach</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cfd45db3-ea21-4eb0-a34b-cd343cb3a027-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639812.44 510430.97 639795.17 510413.86 639789.93 510411.72 639750.08 510424.50 639721.15 510441.93 639735.61 510456.14 639765.20 510485.53 639776.91 510473.24 639782.12 510467.69 639782.60 510467.16 639797.58 510451.00 639795.48 510449.02 639804.63 510439.27 639812.44 510430.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_d6de7adc-ef36-4730-8ccf-ffd70cde2e0a_2023-12-31T120000">
+			<ot:lokalnyId>d6de7adc-ef36-4730-8ccf-ffd70cde2e0a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zabytek</ot:informacjaDodatkowa>
+			<ot:rodzaj>ośrodek naukowo-badawczy</ot:rodzaj>
+			<ot:nazwa>KEZO Centrum Badawcze PAN - Konwersja Energii i Źródła Odnawialne</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-41f41c5a-2fb6-4a8f-baf7-a205b72a7c40-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631192.88 503263.67 631337.24 503136.88 631344.88 503129.92 631269.13 503043.63 631259.29 503052.63 631189.45 503115.31 631118.34 503180.51 631143.63 503209.74 631192.88 503263.67</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-198D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-198D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Zespół Szkolno-Przedszkolny im. Legionów Polskich 1914-1918 w Legionowie</ot:informacjaDodatkowa>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 4 im. Legionów Polskich</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-90237616-0fe3-46a1-a185-2ed9edc4ed73-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632181.34 507098.44 632159.69 507076.48 632146.96 507061.69 632133.01 507044.28 632095.80 507063.09 632090.88 507065.60 632085.78 507068.20 632060.97 507081.08 632067.63 507092.72 632070.52 507091.21 632072.18 507094.56 632105.55 507160.57 632125.70 507200.36 632161.78 507187.77 632171.71 507184.31 632191.12 507177.18 632223.25 507166.26 632236.64 507161.72 632181.34 507098.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_adef92d9-aef3-452b-bfc1-d1a027799a9a_2023-12-31T120000">
+			<ot:lokalnyId>adef92d9-aef3-452b-bfc1-d1a027799a9a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 1 im. Stefana Krasińskiego w Chotomowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5ccdfa5d-650f-4f88-8a2e-659621c5dfc3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628844.79 505294.68 628856.13 505273.79 628858.79 505273.89 628904.79 505185.91 628912.92 505177.47 628941.30 505123.11 628939.62 505108.07 628886.93 505081.17 628882.16 505078.74 628814.50 505044.20 628807.45 505040.60 628807.27 505055.36 628806.08 505157.40 628806.17 505271.62 628841.29 505273.20 628841.56 505294.20 628844.79 505294.68</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1978-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1978-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Powiatowy Zespół Szkół Ponadpodstawowych im. Włodzimierza Wolskiego w Serocku</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-58e0e77a-531d-4547-ab35-f0ea59882db8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640622.96 518635.32 640623.77 518630.92 640663.98 518638.89 640678.90 518630.03 640689.61 518621.87 640692.31 518598.90 640682.36 518579.48 640665.86 518574.03 640660.10 518572.12 640634.45 518559.55 640607.66 518555.53 640604.53 518571.30 640600.96 518571.26 640593.74 518569.71 640555.98 518562.04 640551.34 518561.18 640549.05 518574.95 640546.89 518587.96 640544.41 518600.26 640542.26 518611.78 640540.66 518619.67 640540.30 518621.44 640544.66 518623.58 640568.17 518635.14 640569.34 518633.78 640569.53 518633.80 640604.23 518637.27 640622.26 518639.08 640622.96 518635.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A4-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A4-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkolno-Przedszkolny nr 3</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d3e2102e-1ba7-4d88-a3e3-c11756d18261-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631005.43 504908.51 631031.99 504900.46 631033.64 504905.98 631057.50 504898.75 631065.55 504894.01 631082.29 504888.78 631088.31 504886.99 631111.16 504881.01 631092.10 504814.78 631085.38 504806.02 631083.11 504807.60 631079.43 504802.59 631081.87 504800.97 631066.17 504779.00 631054.74 504782.89 630985.23 504834.25 630969.07 504837.18 630938.51 504858.67 630901.52 504886.97 630904.05 504891.63 630933.07 504931.85 630935.85 504935.70 631007.14 504914.05 631005.43 504908.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A5-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A5-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Dom Samotnej Matki sióstr Urszulanek z Gandino, Niepubliczne Przedszkole Sióstr Urszulanek</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-763b27d3-e7b3-4f0b-a5ce-5ecb4e98751c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630714.23 505633.93 630704.99 505747.63 630721.89 505735.37 630728.59 505730.30 630761.47 505705.82 630761.32 505699.70 630762.37 505693.86 630765.37 505687.33 630784.90 505642.90 630724.56 505628.07 630714.23 505633.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1995-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1995-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Powiatowy Zespół Szkół Ponadpodstawowych im. Jerzego Siwińskiego w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-81d8019a-2206-4202-b9b2-9507a5b9e3ab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630415.46 506808.79 630412.73 506799.95 630411.41 506795.79 630410.56 506793.16 630407.83 506784.71 630404.79 506775.33 630404.64 506774.89 630402.86 506768.82 630399.87 506758.80 630395.86 506746.26 630352.28 506760.33 630344.98 506762.53 630353.80 506789.53 630359.60 506807.42 630385.79 506800.71 630397.41 506831.26 630393.43 506844.31 630426.25 506857.61 630429.84 506855.39 630427.76 506848.64 630422.39 506831.27 630417.77 506816.30 630415.46 506808.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1989-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1989-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Przedszkole Miejskie Integracyjne nr 5 im. Misia Uszatka</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0863761a-8ffa-4615-b13b-cda26687b1b8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631898.18 504599.47 631938.55 504568.53 631929.59 504556.77 631899.02 504515.76 631888.40 504513.96 631863.80 504532.72 631849.34 504543.75 631867.20 504567.19 631882.11 504587.08 631884.76 504590.70 631894.47 504602.28 631898.18 504599.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197B-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Mikołaja Kopernika w Serocku</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-17504315-7ce0-4f64-a0a0-dace637ac7dc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640405.14 518685.44 640405.48 518764.28 640410.54 518763.94 640453.88 518763.44 640454.39 518786.56 640479.68 518787.07 640514.42 518770.83 640519.32 518763.79 640522.15 518751.63 640533.45 518753.02 640538.24 518752.98 640543.43 518753.16 640544.66 518714.50 640506.63 518714.65 640503.75 518714.69 640489.40 518714.97 640488.77 518714.97 640483.29 518714.96 640483.25 518704.17 640459.61 518704.34 640434.48 518691.52 640405.14 518685.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1980-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1980-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>przedszkole</ot:rodzaj>
+			<ot:nazwa>Samorządowe Przedszkole im. Krasnala Hałabały</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-162b90fa-0214-4f6c-8046-d025b3fb00ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640544.66 518714.50 640518.93 518704.02 640526.27 518682.39 640531.82 518662.48 640530.19 518661.23 640532.13 518649.31 640533.91 518638.82 640530.27 518637.91 640525.82 518637.00 640513.43 518636.43 640478.57 518634.84 640441.56 518633.15 640440.21 518633.09 640436.83 518680.78 640434.48 518691.52 640459.61 518704.34 640483.25 518704.17 640483.29 518714.96 640488.77 518714.97 640489.40 518714.97 640503.75 518714.69 640506.63 518714.65 640544.66 518714.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1987-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1987-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Zespół Szkół im. mjra Konstantego Mikołaja Radziwiłła w Komornicy</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e1cf4586-ddc1-4611-bb58-1dc9f5da38cd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630750.33 515103.55 630801.43 515079.93 630796.14 515070.33 630802.73 515066.33 630827.44 515051.31 630902.46 515048.57 630901.70 514971.17 630901.65 514968.56 630901.60 514965.95 630901.00 514914.38 630900.12 514861.32 630893.97 514861.20 630804.85 514859.91 630794.16 514859.75 630794.64 514866.40 630768.90 514866.81 630769.67 514835.59 630721.78 514834.54 630721.26 514821.91 630702.65 514821.70 630702.70 514844.22 630702.75 514867.30 630689.59 514867.30 630689.13 514906.58 630689.43 514914.63 630683.70 514914.23 630575.55 514912.23 630580.83 515070.95 630581.03 515085.14 630581.30 515085.14 630594.55 515084.93 630689.34 515083.10 630689.83 515094.32 630690.28 515104.49 630750.33 515103.55</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-198A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-198A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa nr 8 im. 1. Warszawskiej Dywizji Piechoty</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-56197f62-0df4-481e-97f5-d72b342032b1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632597.83 506677.45 632579.52 506650.61 632565.16 506650.48 632563.04 506647.26 632561.60 506643.99 632571.45 506627.91 632564.22 506616.96 632530.70 506642.98 632493.45 506658.00 632490.17 506659.61 632477.01 506642.14 632456.37 506619.07 632450.14 506611.87 632438.12 506596.94 632423.48 506608.74 632410.26 506619.66 632407.37 506621.50 632377.13 506587.74 632337.04 506618.81 632310.52 506639.11 632323.05 506659.30 632339.87 506686.88 632373.73 506746.42 632394.37 506782.71 632418.15 506825.62 632424.29 506837.34 632424.32 506837.39 632428.35 506844.82 632445.81 506836.44 632454.17 506832.22 632460.32 506828.81 632450.98 506809.31 632464.19 506802.66 632487.35 506791.00 632532.58 506767.60 632556.42 506755.79 632618.62 506725.05 632627.61 506720.61 632597.83 506677.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1979-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1979-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. Bronisława Sokoła w Olszewnicy Starej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-574dadb8-ad1f-47c4-9655-58e7a6228773-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>626683.81 509936.88 626702.94 509887.86 626704.43 509883.92 626679.22 509869.50 626630.89 509841.07 626568.65 509804.46 626556.92 509864.28 626553.66 509880.92 626571.41 509891.50 626576.97 509894.62 626594.16 509904.15 626641.88 509930.74 626648.99 509934.59 626653.05 509927.82 626681.19 509943.02 626683.81 509936.88</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOS_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-197A-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-197A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szkoła lub zespół szkół</ot:rodzaj>
+			<ot:nazwa>Szkoła Podstawowa im. I Batalionu Saperów Kościuszkowskich w Izabelinie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e0722a3b-7440-43ee-a88c-fd798a17048e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639989.71 505130.07 639981.76 505064.66 639975.41 505012.41 639972.16 504985.67 639908.15 504993.46 639927.62 505137.34 639989.71 505130.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOS_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

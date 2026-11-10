@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUOZ_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A3-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A3-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>żłobek</ot:rodzaj>
+			<ot:nazwa>Żłobek Miejski Motylkowy Świat w Legionowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2aeb811e-41ab-4b34-8da2-9016f64c04dc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631242.48 505080.84 631238.38 505083.82 631220.99 505096.45 631209.56 505104.75 631245.04 505154.91 631265.64 505184.04 631281.07 505193.35 631299.77 505166.50 631305.77 505162.18 631302.43 505153.80 631294.65 505142.99 631290.53 505146.01 631242.48 505080.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A8-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A8-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Wojskowy Instytut Medyczny Szpital w Legionowie</ot:informacjaDodatkowa>
+			<ot:rodzaj>zespół szpitalny lub sanatoryjny</ot:rodzaj>
+			<ot:nazwa>Wojskowa Specjalistyczna Przychodnia Lekarska</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6b7b0b47-054b-4fbf-816b-12bc2ff1088e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632712.38 505860.63 632704.61 505850.27 632647.87 505893.01 632625.34 505909.99 632625.96 505910.54 632628.14 505914.18 632617.76 505922.18 632595.62 505938.01 632596.97 505939.75 632577.98 505954.44 632575.75 505956.17 632564.30 505965.03 632561.64 505967.08 632553.00 505973.77 632559.90 505983.28 632565.94 505991.45 632580.81 506011.57 632604.26 506043.05 632612.26 506045.10 632619.73 506047.02 632635.77 506027.35 632654.96 506004.92 632669.81 505986.59 632677.69 505977.57 632660.63 505957.10 632692.34 505931.73 632727.60 505889.49 632724.52 505886.91 632716.36 505880.17 632705.00 505869.15 632712.38 505860.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_8f302b8e-db48-42e9-b78a-65dc891004ec_2023-12-31T120000">
+			<ot:lokalnyId>8f302b8e-db48-42e9-b78a-65dc891004ec</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:nazwa>Dom Opieki Marion</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9eb9136e-0f2b-4ce9-8429-7c716af710ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>623587.42 509982.85 623619.30 509972.22 623624.74 509896.21 623630.64 509819.63 623634.75 509774.13 623603.26 509771.92 623600.75 509818.59 623593.60 509906.15 623587.42 509982.85</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19AB-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19AB-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:nazwa>Ośrodek Pomocy Społecznej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1e4076f3-e628-40ce-8c9b-369696bc4987-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634222.47 510684.44 634243.12 510676.15 634241.06 510670.46 634210.01 510584.87 634201.98 510562.76 634189.37 510567.36 634187.37 510563.14 634155.29 510574.42 634196.78 510692.61 634222.47 510684.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19AD-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19AD-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zespół szpitalny lub sanatoryjny</ot:rodzaj>
+			<ot:nazwa>Niepubliczny Zakład Opieki Zdrowotnej Legionowo</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-238cb299-a0b8-417d-9cda-3b8ee18bd507-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631531.86 504843.39 631516.34 504823.34 631510.11 504827.87 631461.42 504863.40 631440.46 504878.95 631445.10 504886.96 631498.22 504940.92 631489.73 504947.76 631512.36 504969.70 631519.09 504975.80 631547.39 504947.37 631551.21 504943.43 631532.77 504930.05 631529.95 504928.05 631542.01 504915.60 631548.22 504908.08 631561.51 504892.31 631567.14 504888.69 631545.68 504861.14 631544.73 504859.93 631531.86 504843.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19B0-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19B0-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Dom Dziecka im. Ojca św. Piusa XI</ot:informacjaDodatkowa>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d837de16-1d3f-4dd6-8aa0-75d04817d014-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628387.33 506788.82 628410.52 506838.17 628432.91 506885.33 628444.25 506909.68 628531.08 507095.49 628556.15 507089.97 628584.42 507083.74 628547.72 507005.58 628525.28 506957.78 628493.90 506887.61 628473.94 506843.94 628461.86 506817.18 628459.73 506812.46 628441.29 506771.44 628439.39 506769.02 628436.42 506761.57 628430.61 506750.85 628428.39 506745.47 628422.55 506731.40 628421.30 506728.39 628410.35 506697.39 628401.64 506696.52 628387.74 506695.85 628376.27 506694.89 628369.02 506693.91 628366.16 506693.52 628376.03 506751.84 628381.43 506774.14 628387.33 506788.82</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19AA-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19AA-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:nazwa>Legionowskie Centrum Charytatywno-Opiekuńcze</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-35a63c5a-4d31-42b1-99f1-7bfce65b54c1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631624.74 506414.77 631655.56 506412.75 631663.91 506411.91 631670.23 506411.27 631667.81 506381.93 631667.22 506374.17 631665.76 506355.02 631665.21 506347.53 631664.49 506337.79 631663.02 506317.85 631661.45 506288.06 631649.80 506288.55 631647.54 506288.65 631616.75 506276.19 631585.47 506343.07 631586.59 506346.79 631589.66 506356.98 631600.88 506398.57 631601.57 506401.14 631606.57 506414.37 631616.26 506413.56 631620.09 506414.98 631624.74 506414.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19AE-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19AE-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zespół szpitalny lub sanatoryjny</ot:rodzaj>
+			<ot:nazwa>Mazowiecki Szpital Onkologiczny</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-349d0025-53df-4ff6-b5e1-95cb8bd0a37a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633378.28 510043.56 633413.99 510034.37 633434.84 510036.99 633463.80 510035.37 633484.51 510034.21 633496.57 509979.77 633483.70 509976.74 633432.25 509964.62 633406.60 509901.89 633395.97 509876.54 633390.27 509862.95 633370.99 509814.79 633339.94 509738.87 633322.94 509697.59 633319.52 509698.97 633304.84 509704.90 633294.30 509709.62 633279.31 509716.33 633268.33 509721.25 633266.10 509722.25 633252.39 509727.14 633247.16 509729.04 633245.18 509729.82 633227.23 509736.93 633227.02 509737.01 633240.42 509775.67 633241.58 509779.00 633248.37 509798.48 633251.72 509808.10 633265.69 509848.22 633270.19 509846.69 633340.35 510044.37 633343.53 510053.55 633378.28 510043.56</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A9-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A9-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:nazwa>Dom Pomocy Społecznej KOMBATANT</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66a1c444-0486-4472-af3d-ba2c30fc9b2f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630261.11 506430.64 630279.39 506428.18 630309.96 506424.05 630330.47 506434.14 630335.95 506436.83 630364.35 506450.80 630382.19 506459.57 630388.62 506457.81 630394.97 506453.88 630402.07 506444.74 630414.16 506426.52 630428.50 506399.46 630435.14 506387.08 630445.49 506365.78 630444.19 506364.86 630425.69 506361.32 630406.68 506360.42 630372.97 506367.14 630367.88 506368.39 630362.86 506369.62 630333.65 506374.21 630304.04 506378.77 630261.11 506430.64</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19AC-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19AC-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:nazwa>Samodzielny Zespół Publicznych Zakładów Opieki Zdrowotnej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d72f0c56-97a9-41ee-bcde-f69831ec0f0a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630784.60 502683.10 630823.27 502667.38 630826.54 502665.88 630827.46 502665.53 630830.59 502664.35 630841.78 502659.62 630855.29 502653.62 630845.11 502641.11 630819.21 502609.30 630741.38 502662.89 630757.74 502694.02 630784.60 502683.10</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.330.BDOT10k_38E00D13-19A7-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-19A7-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cd8b3e86-1dc1-416f-a0d1-11969e6fea1e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640381.64 517915.31 640410.80 517912.09 640420.24 517910.99 640453.01 517907.48 640519.70 517898.28 640514.28 517858.20 640511.09 517858.61 640484.83 517862.01 640459.55 517865.27 640426.84 517869.50 640392.62 517873.93 640387.76 517874.56 640380.72 517875.46 640365.75 517877.38 640362.11 517877.85 640367.02 517890.03 640371.67 517901.57 640375.63 517912.71 640376.75 517915.85 640381.64 517915.31</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

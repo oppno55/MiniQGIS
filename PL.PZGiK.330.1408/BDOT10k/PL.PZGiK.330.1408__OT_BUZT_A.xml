@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUZT_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9B-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cb78cc58-ba73-4f9a-a447-b61933725dfa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633828.69 510987.66 633813.99 510946.27 633791.99 510952.99 633791.12 510950.17 633748.61 510965.03 633763.95 511010.43 633828.69 510987.66</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_3afef47d-e440-47c0-acfc-86992e97e13b">
+			<ot:lokalnyId>3afef47d-e440-47c0-acfc-86992e97e13b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-307ed882-9150-4a9c-bdf4-d05c76c82640-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>620905.08 508123.02 620905.31 508112.82 620898.94 508112.39 620898.66 508122.94 620905.08 508123.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_4911fb86-499f-47f7-80a4-3a2f126433d9">
+			<ot:lokalnyId>4911fb86-499f-47f7-80a4-3a2f126433d9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-41719adf-e77e-4635-80a8-efd8e254b5a6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>640020.33 521249.94 640012.66 521217.23 639996.26 521221.08 640003.93 521253.78 640020.33 521249.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA8C-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA8C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-64dfa248-6352-4abd-8bea-1eea33e83cf3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639847.39 521282.76 639834.02 521290.20 639851.01 521321.55 639864.98 521314.42 639847.39 521282.76</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_a3c37a45-7146-41ae-9b59-011cccba5155">
+			<ot:lokalnyId>a3c37a45-7146-41ae-9b59-011cccba5155</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-99c074ef-0d14-47b7-9139-29c9893edf92-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>636518.33 518440.34 636506.43 518439.15 636505.71 518445.81 636517.26 518447.36 636518.33 518440.34</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_8e1e29cf-1a94-4baf-8061-9940a36e2d66">
+			<ot:lokalnyId>8e1e29cf-1a94-4baf-8061-9940a36e2d66</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9916a4df-866c-4ca5-9ddc-89278139ee64-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631565.20 507812.00 631647.69 507771.09 631642.26 507759.97 631559.53 507800.38 631565.20 507812.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA8B-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA8B-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d39804ab-2cea-49db-9a3b-744b422f60e3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632155.67 513787.42 632157.21 513736.73 632144.53 513736.34 632131.84 513736.24 632129.85 513811.61 632154.81 513811.92 632155.67 513787.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_0557cbce-54d2-4852-bd41-8eeea8e392ae">
+			<ot:lokalnyId>0557cbce-54d2-4852-bd41-8eeea8e392ae</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_431_1</ot:kodKarto10k>
+			<ot:skrotKartograficzny>osad.</ot:skrotKartograficzny>
+			<ot:rodzaj>osadnik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8b7637d5-a822-4c49-8fd1-07d718636602-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639903.73 520667.95 639923.22 520665.70 639921.90 520649.56 639902.06 520651.69 639903.73 520667.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9C-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-141e5fbb-9eb0-4517-aef9-4e089bc04a59-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628261.60 506898.82 628266.62 506911.70 628279.57 506906.95 628274.33 506893.59 628261.60 506898.82</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_4eb7dc19-add7-47ad-bd62-67113fd5eaf5">
+			<ot:lokalnyId>4eb7dc19-add7-47ad-bd62-67113fd5eaf5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7a184d2e-02ff-4b78-b840-babb4d68fcbc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638264.61 503835.78 638247.02 503838.13 638247.85 503845.42 638265.63 503843.16 638264.61 503835.78</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA0-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA0-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c084b4ff-a99d-4b9b-8b14-8159ebbbcebd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630489.62 505243.08 630501.12 505251.28 630521.79 505235.16 630504.39 505212.07 630489.62 505243.08</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_5e3cc764-93dd-47ff-9b25-52b664f30a1e">
+			<ot:lokalnyId>5e3cc764-93dd-47ff-9b25-52b664f30a1e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-06b4bdda-5e58-4393-8923-b784e1a4738a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630332.17 516752.40 630327.95 516779.13 630351.75 516782.84 630355.86 516755.66 630332.17 516752.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA8-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA8-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d0ed0b9d-eae6-405a-a703-1dfecb5d8763-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630714.57 503352.12 630720.17 503358.34 630747.89 503338.76 630743.27 503332.49 630714.57 503352.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA90-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA90-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8890a67d-6988-4c23-b748-63fc2968ddc9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638915.28 516652.14 638908.13 516650.01 638891.82 516645.62 638878.48 516687.76 638902.79 516692.43 638915.28 516652.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_984f5e02-e832-46c9-a797-c68673404e67">
+			<ot:lokalnyId>984f5e02-e832-46c9-a797-c68673404e67</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>w budowie</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5c5991a2-4c5e-4a2a-90b4-a3f6a322234b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633149.30 506863.26 633142.79 506866.55 633136.94 506872.28 633136.22 506875.50 633137.16 506878.57 633145.90 506884.52 633158.77 506893.39 633170.32 506904.53 633178.75 506915.00 633182.71 506920.88 633183.67 506921.74 633186.07 506920.62 633187.89 506919.09 633189.33 506916.81 633189.91 506913.84 633186.09 506897.74 633173.99 506880.61 633162.82 506866.49 633157.47 506864.10 633149.30 506863.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9E-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-abf12a9c-588f-42ff-af51-221c2a352e1d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628444.31 507542.97 628446.30 507550.85 628453.44 507553.97 628460.76 507537.98 628459.17 507536.22 628448.62 507532.08 628444.31 507542.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA2-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA2-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ecadcb53-2e8a-4bfc-99c3-826d8e03defc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>631685.48 507867.62 631670.79 507835.02 631608.59 507865.69 631623.98 507897.11 631685.48 507867.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA8E-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA8E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3f603a38-d902-40e3-b66c-e4e0e6d7764a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633059.00 514043.23 633064.00 514041.29 633066.64 514038.84 633069.03 514035.76 633070.90 514030.38 633071.55 514021.89 633072.40 514017.62 633073.69 514013.53 633077.80 514006.56 633104.65 513970.35 633107.57 513964.93 633110.25 513958.88 633110.61 513953.36 633109.69 513947.26 633107.48 513942.69 633106.41 513941.14 633055.93 513862.96 633000.16 513777.33 632995.27 513772.59 632988.28 513768.47 632981.81 513765.61 632975.36 513763.80 632968.09 513762.66 632958.60 513763.12 632948.94 513765.05 632942.42 513767.46 632933.82 513772.15 632928.45 513775.71 632921.56 513780.71 632916.01 513785.13 632909.03 513793.93 632904.52 513801.77 632902.15 513809.50 632901.25 513817.38 632901.89 513826.45 632904.27 513836.29 632914.44 513854.22 632941.15 513894.46 632952.85 513913.58 633011.97 514002.77 633031.38 514032.05 633035.85 514037.13 633039.83 514040.95 633044.17 514042.87 633048.88 514043.92 633054.40 514044.29 633059.00 514043.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_4c741dfb-3b8d-4df7-afa0-b97122201236">
+			<ot:lokalnyId>4c741dfb-3b8d-4df7-afa0-b97122201236</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d2169f5d-f291-42b9-b235-688b5d919032-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638266.72 503848.24 638234.44 503852.60 638235.29 503859.18 638267.63 503855.04 638266.72 503848.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA92-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA92-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-19fcb890-3dab-4588-b6c2-79382650b683-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639043.78 516247.58 639019.32 516247.74 639022.16 516280.41 639036.52 516281.83 639039.21 516274.57 639043.78 516247.58</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA3-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA3-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-dec47c29-6bd4-4428-8479-88e7e8074388-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632067.16 508056.50 632057.50 508036.03 632045.15 508042.57 632055.00 508062.74 632067.16 508056.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA93-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA93-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d0086de8-33d9-4ee7-8bbf-84b1067bda12-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638857.26 517763.19 638828.90 517769.77 638823.41 517826.02 638865.56 517829.47 638857.26 517763.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_2adfbdba-6b0f-4da5-979b-81b09578b410">
+			<ot:lokalnyId>2adfbdba-6b0f-4da5-979b-81b09578b410</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>w budowie</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c8d3792c-8bf2-4452-879f-aa347c56eb92-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633212.62 506980.82 633206.58 506988.20 633208.53 507000.82 633212.42 507005.14 633222.73 506997.43 633220.85 506994.47 633225.23 506986.96 633212.62 506980.82</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA7-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA7-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3646ffdc-a12f-4ee2-bd84-4e6fbeddab70-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>622096.04 506583.52 622108.36 506580.17 622103.60 506563.00 622091.34 506566.45 622096.04 506583.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA4-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA4-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-09ae763c-beff-47dd-b0af-f1fb0032b405-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632151.33 507886.68 632146.04 507875.86 632130.51 507884.12 632136.06 507894.32 632151.33 507886.68</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA8D-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA8D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b7a336ed-7acb-4b6a-8502-6663f4ca8093-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632939.33 514077.80 632983.30 514067.87 632991.34 514066.93 632995.59 514067.40 632999.85 514068.35 633007.89 514071.19 633013.56 514071.66 633017.34 514070.71 633020.65 514069.29 633024.44 514065.51 633027.27 514061.72 633029.16 514056.52 633030.11 514051.79 633030.11 514047.06 633028.22 514041.86 633025.38 514035.71 633006.59 514006.34 632948.77 513916.01 632936.01 513897.56 632910.00 513856.88 632897.71 513840.32 632889.67 513834.17 632881.64 513829.92 632874.07 513827.55 632866.03 513826.60 632857.05 513827.55 632846.17 513830.39 632838.72 513834.13 632832.63 513837.90 632826.93 513841.54 632819.20 513847.38 632814.49 513852.39 632808.82 513860.43 632804.56 513868.95 632802.67 513876.04 632801.72 513882.67 632801.72 513889.76 632802.67 513897.80 632805.02 513904.19 632860.80 513989.82 632912.53 514068.24 632913.92 514070.47 632916.17 514073.07 632921.37 514076.38 632926.57 514078.28 632933.19 514078.28 632939.33 514077.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA98-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA98-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-14a80842-86f6-476d-aa4f-8e341f58b477-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632308.60 505575.30 632289.03 505549.09 632269.54 505563.56 632281.80 505581.26 632291.92 505573.68 632298.39 505583.39 632308.60 505575.30</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA5-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA5-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5a2db4db-abe5-494b-9eef-35640005487a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>633474.48 507744.97 633464.64 507739.23 633456.49 507752.95 633466.10 507758.68 633474.48 507744.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_f248116d-b3da-4b17-af6d-bd2e08a3f5be">
+			<ot:lokalnyId>f248116d-b3da-4b17-af6d-bd2e08a3f5be</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9037668d-4da9-48fb-8463-f19cc489e490-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630325.70 517056.74 630323.03 517075.05 630351.18 517079.09 630353.88 517061.33 630325.70 517056.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9D-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-89f44ffd-b99c-4157-aed0-dfdeed747602-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>628305.45 506981.43 628298.36 506985.29 628305.79 506999.81 628314.88 506995.41 628316.81 506991.07 628315.23 506987.35 628305.45 506981.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA94-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA94-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>nie użytkowane</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c4c7c5d3-4cfc-4d1d-9698-ca85b7bad767-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>632628.18 513609.32 632558.25 513493.98 632535.69 513508.27 632606.10 513623.51 632628.18 513609.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA95-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA95-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6fcbf938-e78b-49d3-86d6-955b6c74c8c4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638586.89 506280.79 638585.58 506274.93 638562.57 506280.52 638563.99 506285.87 638586.89 506280.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA6-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA6-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a99b269f-bb03-4b9c-aae9-ce5b54794607-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>634716.37 508645.86 634708.84 508634.42 634688.22 508648.32 634695.91 508659.83 634716.37 508645.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA99-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA99-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ce84c836-2421-4c4e-b21f-3a07beec273b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639120.24 502875.51 639119.48 502868.84 639062.19 502876.90 639063.01 502883.06 639120.24 502875.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9A-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9A-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-54f5f990-acec-482e-a2a4-ab223b590d9f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639605.16 502823.79 639606.60 502822.59 639605.20 502813.02 639603.74 502803.18 639575.48 502807.37 639576.74 502813.62 639579.26 502815.98 639582.51 502817.25 639585.16 502817.02 639591.28 502816.15 639595.60 502821.22 639601.11 502824.65 639605.16 502823.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_a2d674e7-9394-42f5-b602-a3947c9fd53a">
+			<ot:lokalnyId>a2d674e7-9394-42f5-b602-a3947c9fd53a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2e859e2d-1292-4889-84ed-aac066372344-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639880.15 502822.28 639880.35 502818.12 639879.55 502813.76 639877.94 502808.66 639855.38 502811.89 639857.34 502825.57 639880.15 502822.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BAA1-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BAA1-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-45afad9a-460c-4ecd-b937-2f97d8ff25dd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630949.10 507686.67 630949.04 507688.95 630958.68 507709.35 630961.42 507711.63 630964.55 507711.11 630968.72 507709.22 630971.52 507706.81 630972.30 507704.07 630972.63 507700.55 630971.52 507696.25 630967.94 507688.88 630964.94 507682.95 630963.05 507680.80 630961.03 507681.00 630958.81 507681.71 630949.10 507686.67</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA96-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA96-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-681b4b44-75df-4e1a-a500-8dbc25c9043d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638585.01 506267.91 638583.51 506260.90 638559.10 506267.10 638560.57 506273.38 638585.01 506267.91</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA8F-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA8F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e0ae7a16-cf67-4844-ad5d-7354df082019-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>638623.05 515065.86 638624.98 515062.55 638627.62 515055.33 638629.53 515035.64 638621.30 515013.51 638601.13 514975.90 638598.16 514971.19 638595.61 514969.47 638593.06 514969.59 638589.56 514971.72 638581.68 514976.88 638574.20 514980.50 638569.46 514981.92 638563.94 514982.34 638562.58 514984.80 638576.93 515011.85 638591.52 515034.39 638615.62 515062.84 638620.71 515067.82 638623.05 515065.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA97-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA97-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7a89dfd1-1e8b-4025-874a-48d31dfa1d84-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639059.25 516199.52 639036.65 516165.31 639032.29 516162.42 639027.43 516162.83 639005.61 516177.15 639005.81 516185.50 639029.67 516217.91 639059.25 516199.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA91-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA91-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a080f66f-71fa-4d0a-8205-2b6f664d32b8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>639014.26 517775.25 638985.06 517770.93 638974.51 517842.41 639002.51 517846.70 639014.26 517775.25</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUZT_A gml:id="id_38E00D12-BA9F-5161-E053-CC2BA8C00173">
+			<ot:lokalnyId>38E00D12-BA9F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_414_1</ot:kodKarto10k>
+			<ot:rodzaj>zbiornik</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-628b04fd-b9ec-4d67-9268-5f147c2fc38a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>630279.51 506706.29 630282.05 506716.38 630301.04 506711.33 630298.87 506701.28 630279.51 506706.29</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUZT_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

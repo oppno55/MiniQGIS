@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUPG_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_ed7c1501-5e0a-11ee-bb96-5404a6a68038_2023-12-31T120000">
+			<ot:lokalnyId>ed7c1501-5e0a-11ee-bb96-5404a6a68038</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>elektrownia</ot:rodzaj>
+			<ot:rodzajElektrowni>słoneczna</ot:rodzajElektrowni>
+			<ot:geometria>
+				<gml:Point gml:id="id-ea82cacc-fc1d-40c9-8cc6-a04866a04ca1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>632235.22 513821.78</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_ed7b9fd0-5e0a-11ee-bb7c-5404a6a68038_2023-12-31T120000">
+			<ot:lokalnyId>ed7b9fd0-5e0a-11ee-bb7c-5404a6a68038</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>elektrownia</ot:rodzaj>
+			<ot:rodzajElektrowni>słoneczna</ot:rodzajElektrowni>
+			<ot:geometria>
+				<gml:Point gml:id="id-c6472f6d-457a-49ad-b470-3608ad3b7663-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>632408.89 513592.98</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A91-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A91-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-6bbbdc73-ab99-4da6-9906-ba46f4c410ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>630750.26 504561.13</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A93-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A93-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-d2c4355a-2686-41e7-a728-d42dd6bfba0b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>639762.71 517956.03</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A94-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A94-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kopalnia</ot:rodzaj>
+			<ot:kopalina>surowce skalne</ot:kopalina>
+			<ot:geometria>
+				<gml:Point gml:id="id-915ef6ad-aef4-4e2e-b3b3-19dd5f623167-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>635299.82 503154.54</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A95-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A95-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-c20e1ba3-0897-4ae5-9d5d-b8ec296cf996-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>631843.21 506455.46</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A9D-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A9D-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kopalnia</ot:rodzaj>
+			<ot:nazwa>SORT-PIACH Kopalnia piasku i kruszywa budowlanego</ot:nazwa>
+			<ot:kopalina>surowce skalne</ot:kopalina>
+			<ot:geometria>
+				<gml:Point gml:id="id-a133cdf1-f9d6-4391-9d05-0f419cd405e3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>621856.49 510407.24</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A9E-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A9E-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-2837c398-77d7-44af-a7d6-b6df909f089a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>630465.81 515217.83</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A9F-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A9F-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Huta Szkła Wołczyńscy</ot:informacjaDodatkowa>
+			<ot:rodzaj>huta</ot:rodzaj>
+			<ot:nazwa>Huta Szkła Wołczyńscy</ot:nazwa>
+			<ot:geometria>
+				<gml:Point gml:id="id-9e10fbc8-ed76-487b-998e-8a0622dbbbca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>622656.06 510230.34</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A92-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A92-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-41383843-9d78-4e26-8a69-356b667c43eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>632471.79 513563.44</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1AA1-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1AA1-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-4b9dd6cd-b393-4a9c-8b1a-a67947f400d7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>632093.65 513633.07</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A96-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A96-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-5ab5a203-117b-45ad-8ff2-b1c355377e90-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>638133.39 502486.10</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A9C-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A9C-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>elektrownia</ot:rodzaj>
+			<ot:rodzajElektrowni>wodna</ot:rodzajElektrowni>
+			<ot:geometria>
+				<gml:Point gml:id="id-7374e915-7707-49b3-8122-42df4fd89937-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>630601.49 515204.71</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUPG_P gml:id="PL.PZGiK.330.BDOT10k_38E00D13-1A97-5161-E053-CC2BA8C00173_2023-12-31T120000">
+			<ot:lokalnyId>38E00D13-1A97-5161-E053-CC2BA8C00173</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.330.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>podstacja elektroenergetyczna</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-56aa1d71-c0d0-47e2-998a-55adfb4c89ae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>633505.65 507585.04</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUPG_P>
+	</gml:featureMember>
+</gml:FeatureCollection>
