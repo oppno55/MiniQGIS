@@ -1,0 +1,95 @@
+{
+    "Z_ORDER": ["PT", "KU", "SW", "SU", "SK", "BU", "TC", "AD", "OI"],
+
+    "PTWP_A": {
+        "default": {"fill": "#80c5de", "outline": "#3388bb"}
+    },
+    "PTLZ_A": {
+        "default": {"fill": "#2ca25f", "outline": "#186539", "stipple": "gray25"}
+    },
+    "PTRK_A": {
+        "default": {"fill": "#78c679", "outline": "#41ab5d", "stipple": "gray12"}
+    },
+    "PTUT_A": {
+        "default": {"fill": "#addd8e", "outline": "#78c679", "stipple": "gray25"}
+    },
+    "PTTR_A": {
+        "default": {"fill": "#f7f6e4", "outline": "#dcdbc8"}
+    },
+    "PTZB_A": {
+        "default": {"fill": "#ead7c3", "outline": "#c4ae97"}
+    },
+    "PTKM_A": {
+        "default": {"fill": "#e0e0e0", "outline": "#b0b0b0"}
+    },
+    "PTGN_A": {
+        "default": {"fill": "#e8e4d8", "outline": "#c2beb0"}
+    },
+    "PTPL_A": {
+        "default": {"fill": "#e6e6e6", "outline": "#999999"}
+    },
+
+    "SWRS_L": {
+        "default": {"outline": "#2b8cbe", "width_mm": 0.8}
+    },
+    "SWRM_L": {
+        "default": {"outline": "#4eb3d3", "width_mm": 0.4, "dash": [6, 3]}
+    },
+    "SWKN_L": {
+        "default": {"outline": "#0868ac", "width_mm": 1.0}
+    },
+
+    "SKDR_L": {
+        "attr": "klasaDrogi",
+        "default": {"outline": "#666666", "fill": "#ffffff", "width_mm": 0.7, "double": true},
+        "rules": {
+            "A":  {"outline": "black", "fill": "#ff5555", "width_mm": 1.5, "double": true},
+            "S":  {"outline": "black", "fill": "#ff5555", "width_mm": 1.5, "double": true},
+            "GP": {"outline": "black", "fill": "#ffaa00", "width_mm": 1.2, "double": true},
+            "G":  {"outline": "black", "fill": "#ffffff", "width_mm": 1.0, "double": true},
+            "Z":  {"outline": "black", "fill": "#ffffff", "width_mm": 1.0, "double": true},
+            "L":  {"outline": "#555555", "fill": "#ffffff", "width_mm": 0.8, "double": true},
+            "D":  {"outline": "#555555", "fill": "#ffffff", "width_mm": 0.8, "double": true},
+            "I":  {"outline": "#888888", "fill": "", "width_mm": 0.5, "dash": [4, 4]}
+        }
+    },
+    "SKTR_L": {
+        "default": {"outline": "#222222", "width_mm": 0.9, "decoration": "tick", "dec_spacing": 12}
+    },
+
+    "BUBD_A": {
+        "attr": "funkcjaOgolnaBudynku",
+        "default": {"fill": "#e6a8a8", "outline": "#333333"},
+        "rules": {
+            "1110": {"fill": "#f28585", "outline": "black"},
+            "1121": {"fill": "#f28585", "outline": "black"},
+            "1122": {"fill": "#f28585", "outline": "black"},
+            "1130": {"fill": "#f28585", "outline": "black"},
+            "1251": {"fill": "#b8b8b8", "outline": "black"},
+            "1271": {"fill": "#d0b0ff", "outline": "black"},
+            "1272": {"fill": "#d0b0ff", "outline": "black"}
+        }
+    },
+
+    "SUPS_L": {
+        "default": {"outline": "#000000", "width_mm": 0.3, "decoration": "tick", "dec_spacing": 15}
+    },
+
+    "ADJA_A": {
+        "default": {"fill": "", "outline": "#7b3294", "dash": [8, 4]}
+    },
+    "ADMS_A": {
+        "default": {"fill": "", "outline": "#555555", "dash": [4, 4]}
+    },
+
+    "OIPR_P": {
+        "attr": "rodzaj",
+        "default": {"shape": "circle", "color": "#d95f02", "size_mm": 2.0},
+        "rules": {
+            "krzyzPrzydrozny": {"shape": "cross", "color": "black", "size_mm": 2.2},
+            "kapliczka": {"shape": "cross", "color": "#b2182b", "size_mm": 2.2},
+            "pomnik": {"shape": "triangle", "color": "#ff4444", "size_mm": 2.2},
+            "drzewoPomnikPrzyrody": {"shape": "tree", "color": "#1b7837", "size_mm": 3.0}
+        }
+    }
+}
